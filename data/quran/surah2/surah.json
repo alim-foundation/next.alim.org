@@ -1,0 +1,64 @@
+{
+	"Surahnumber": "114",
+	"Surahname" : "Al-Fathiha",
+	"explore": [
+		{
+		"Title": "1",
+		"Surahnumber": "1",
+		"Ayahnumer": "1",
+		"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/001001.mp3",
+		"Tags": "",
+		"Body": "﻿بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"
+		},
+		{
+		"Title": "1",
+		"Surahnumber": "1",
+		"Ayahnumer": "2",
+		"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/001002.mp3",
+		"Tags": "",
+		"Body": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"
+		},
+		{
+		"Title": "1",
+		"Surahnumber": "1",
+		"Ayahnumer": "3",
+		"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/001003.mp3",
+		"Tags": "",
+		"Body": "الرَّحْمَٰنِ الرَّحِيمِ"
+		},
+		{
+		"Title": "1",
+		"Surahnumber": "1",
+		"Ayahnumer": "4",
+		"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/001004.mp3",
+		"Tags": "",
+		"Body": "مَالِكِ يَوْمِ الدِّينِ"
+		},
+		{
+		"Title": "1",
+		"Surahnumber": "1",
+		"Ayahnumer": "5",
+		"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/001005.mp3",
+		"Tags": "",
+		"Body": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ"
+		},
+		{
+		"Title": "1",
+		"Surahnumber": "1",
+		"Ayahnumer": "6",
+		"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/001006.mp3",
+		"Tags": "",
+		"Body": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ"
+		},
+		{
+		"Title": "1",
+		"Surahnumber": "1",
+		"Ayahnumer": "7",
+		"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/001007.mp3",
+		"Tags": "",
+		"Body": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ"
+		}
+		
+    ]
+    
+}
