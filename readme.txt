@@ -19,4 +19,30 @@ content/quran/Ayah  // Designed to add all ayahs from each surah in separate fol
 	layouts/partials/quran.html // This will read Surah json file, but i could make it read by giving the json file name statically.
 
 /static/js // Added js functions to manage navigations 
+
+
+// Shahid's Note
+
+Hugo data templates -> AJAX to read/write dynamically
+Asia's current model
+
+
+FUSE file system tied to the database during generation
+
+
+content
+  folder 1
+     foler 2
+        file 1.md 
+        file 2.md 
+
+data
+   file.json
+   file.csv
+
+
+FUSE file system  -> SQL to generate the folder names, files, etc.
+
+create a SQL -> FUSE file system layer
+whatever files are needed can come dynamically from FUSE
 	
