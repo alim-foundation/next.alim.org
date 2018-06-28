@@ -1,10 +1,37 @@
 {{ partial "header" . }}
+<div class="row">
+<div class="col-md-2">
+	<select id="hadithlist">
+	  <option {{ if (eq .Params.BookCode "SAD" ) }} selected {{ end }} value="sad">Abu-Dawood</option>
+	  <option {{ if (eq .Params.BookCode "NWH" ) }} selected {{ end }} value="nwh">An-Nawawi</option>
+	  <option {{ if (eq .Params.BookCode "AMH" ) }} selected {{ end }} value="amh">Al-Muwatta</option>
+	  <option {{ if (eq .Params.BookCode "HDQ" ) }} selected {{ end }} value="hdq">Al-Qudsi</option>
+	  <option {{ if (eq .Params.BookCode "TIR" ) }} selected {{ end }} value="tir">Al-Tirmidhi</option>
+	</select>
+</div>
+</div>
+{{$BookCode := .Params.BookCode}} 
+{{$HadithNumber := .Params.HadithNumber}}
+{{ if $BookCode }} 
+	{{ range index $.Site.Data.hadith $BookCode}}
+		{{ range .explore  }} 
+			{{if eq ($HadithNumber) (.HadithNumber) }}
+			<main>
+				<div id = "hadith-prev" class = "btn btn-success" rel="1">Prev</div>
+				<div id = "hadith-next" class = "btn btn-success" rel="1">Next</div>
+				</br></br>
+				<div><b>Narrated By ::  {{ .Narrator }}</b></div>
+				</br></br>
+				<div> {{.Body}}</div>
+			</main>
+		{{ end }}			
+		{{ end }}	
+	{{ end }}	
+{{ end }}
+{{ if and .Site.DisqusShortname (not .Params.disableComments) }}
 
-<main>
-<div id = "hadith-prev" class = "btn btn-success" rel="1">Prev</div>
-<div id = "hadith-next" class = "btn btn-success" rel="1">Next</div>
-</br></br>
-<div><b>Narrated By ::  {{ .Params.Narrator }}</b></div>
-</br></br>
-<div> {{.Content}}</div>
-</main>
+	<h4 class="page-header">Comments</h4>
+
+	{{ template "_internal/disqus.html" . }}
+
+{{ end }}

@@ -5,15 +5,14 @@ draft: false
 type : "quran"
 layout: "surah"
 BookCode : "ARB"
-SurahNumber: 1
-TotalAyah: 7
+SurahNumber: 2
+TotalAyah: 286
 aliases : [
 ]
 ---
 <table>
-<tr>
-<td>﻿مَٰلِكِ يَوْمِ ٱلدِّينِ
+<td>ب﻿ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 </td>
-<td>4</td>
+<td>2</td>
 </tr>
 </table>

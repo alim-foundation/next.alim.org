@@ -1,0 +1,99 @@
+{
+	"Surahnumber": "2",
+	"Surahname" : "Al-Baqara",
+	"explore": [
+		{
+			"Title": "",
+			"Surahnumber": "1",
+			"Ayahnumer": "0",
+			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/001001.mp3",
+			"Tags": "",
+			"Body": "﻿بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"
+		},
+		{
+			"Title": "",
+			"Surahnumber": "2",
+			"Ayahnumer": "1",
+			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002001.mp3",
+			"Tags": "",
+			"Body": "الم"
+		},
+		{
+			"Title": "",
+			"Surahnumber": "2",
+			"Ayahnumer": "2",
+			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002002.mp3",
+			"Tags": "",
+			"Body": "﻿ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِلْمُتَّقِينَ"
+		},
+		{
+			"Title": "",
+			"Surahnumber": "2",
+			"Ayahnumer": "3",
+			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002003.mp3",
+			"Tags": "",
+			"Body": "﻿﻿الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ"
+		},
+		{
+			"Title": "",
+			"Surahnumber": "2",
+			"Ayahnumer": "4",
+			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002004.mp3",
+			"Tags": "",
+			"Body": "﻿﻿وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ"
+		},
+		{
+			"Title": "",
+			"Surahnumber": "2",
+			"Ayahnumer": "5",
+			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002005.mp3",
+			"Tags": "",
+			"Body": "﻿﻿أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ"
+		},
+		{
+			"Title": "",
+			"Surahnumber": "2",
+			"Ayahnumer": "6",
+			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002006.mp3",
+			"Tags": "",
+			"Body": "﻿إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُونَ"
+		},
+		{
+			"Title": "",
+			"Surahnumber": "2",
+			"Ayahnumer": "7",
+			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002007.mp3",
+			"Tags": "",
+			"Body": "﻿خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ"
+		}
+		,
+		{
+			"Title": "",
+			"Surahnumber": "2",
+			"Ayahnumer": "8",
+			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002007.mp3",
+			"Tags": "",
+			"Body": "﻿وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ وَمَا هُمْ بِمُؤْمِنِينَ"
+		}
+		,
+		{
+			"Title": "",
+			"Surahnumber": "2",
+			"Ayahnumer": "9",
+			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002007.mp3",
+			"Tags": "",
+			"Body": "﻿﻿يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنْفُسَهُمْ وَمَا يَشْعُرُونَ"
+		}
+		,
+		{
+			"Title": "",
+			"Surahnumber": "2",
+			"Ayahnumer": "10",
+			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002007.mp3",
+			"Tags": "",
+			"Body": "﻿فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ"
+		}
+		
+    ]
+    
+}

@@ -10,9 +10,3 @@ TotalAyah: 7
 aliases : [
 ]
 ---
-<table>
-<tr>
-<td>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</td>
-<td>1</td>
-</tr>
-</table>

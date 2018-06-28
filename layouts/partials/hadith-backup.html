@@ -1,0 +1,10 @@
+{{ partial "header" . }}
+
+<main>
+<div id = "hadith-prev" class = "btn btn-success" rel="1">Prev</div>
+<div id = "hadith-next" class = "btn btn-success" rel="1">Next</div>
+</br></br>
+<div><b>Narrated By ::  {{ .Params.Narrator }}</b></div>
+</br></br>
+<div> {{.Content}}</div>
+</main>
