@@ -1,0 +1,138 @@
+{{$SurahNumber := .Params.SurahNumber}} 
+{{$AyahNumber := .Params.AyahNumber}} 
+{{$TotalAyah := .Params.TotalAyah}}
+<div class="row">
+	<div class="col-md-6">
+		<select id="surahlist-compare">
+		  <option {{ if (eq .Params.SurahNumber "1" ) }} selected {{ end }} value="1">Al-Fathiha</option>
+		  <option {{ if (eq .Params.SurahNumber "2" ) }} selected {{ end }} value="2">Al-Baqara</option>
+		  <option {{ if (eq .Params.SurahNumber "3" ) }} selected {{ end }} value="3">Al-Imr'an</option>
+		  <option {{ if (eq .Params.SurahNumber "4" ) }} selected {{ end }} value="4">An-Nisa</option>
+		</select>
+	</div>
+		<div class="col-md-6">
+		<select id="ayahlist-compare">
+		  <option {{ if (eq .Params.AyahNumber "1" ) }} selected {{ end }} value="1">1</option>
+		  <option {{ if (eq .Params.AyahNumber "2" ) }} selected {{ end }} value="2">2</option>
+		  <option {{ if (eq .Params.AyahNumber "3" ) }} selected {{ end }} value="3">3</option>
+		  <option {{ if (eq .Params.AyahNumber "4" ) }} selected {{ end }} value="4">4</option>
+		  <option {{ if (eq .Params.AyahNumber "5" ) }} selected {{ end }} value="5">5</option>
+		</select>
+	</div>
+</div>
+{{ if $SurahNumber }} 
+	{{ range index $.Site.Data.quran $SurahNumber }}
+		{{ range .explore  }}
+			{{ if (eq .Ayahnumer $AyahNumber ) }} 
+				<div id="compare-quran-content" class="">
+					<div class="compare-main-box">
+						<div class="row main-row" >
+							<div class="col-sm-6 arabic-ayah">
+								{{ .ARB }} 
+							</div>	
+							
+							<div class="col-sm-5">
+								<div class="compare-audio-box">
+									<div class="compare-right-audios">
+										<audio  controls>
+											<source src="{{ .Recitation }}" type="audio/mp3">
+										</audio>
+									</div>
+								</div>
+							</div>	
+							<div class="col-sm-1">
+								<div  class="number-box col-sm-1">
+									{{ .Ayahnumer }}
+								</div>
+							</div>	
+						</div>
+						<div class="row trans-row">
+							<div class="col-sm-5">
+								<b>Asad Quran Translation</b>
+							</div>
+							<div class="col-sm-7">
+								{{ range .ASD }}
+									{{ .text }} 
+									<br>
+									<h5><i>Comments</i></h5>
+									{{ if .notes}}
+										{{ range  $key, $value := .notes }}
+											{{ $key }}  {{ $value }} 
+											<br>
+										{{ end }}
+									{{ end }}	
+								{{ end }}
+							</div>	
+						</div>
+						<div class="row trans-row">
+							<div class="col-sm-5">
+								<b>Malik Quran Translation</b>
+							</div>
+							<div class="col-sm-7">
+								{{ range .MAL }}
+									{{ .text }} 
+									<br>
+									<h5><i>Comments</i></h5>
+									{{ if .notes}}
+										{{ range  $key, $value := .notes }}
+											{{ $key }}  {{ $value }} 
+											<br>
+										{{ end }}
+									{{ end }}
+								{{ end }}
+							</div>
+						</div>
+						<div class="row trans-row">
+							<div class="col-sm-5">
+								<b>Piktal Quran Translation</b>
+							</div>
+							<div class="col-sm-7">
+								{{ range .PIK }}
+									{{ .text }} 
+									<br>
+									<h5><i>Comments</i></h5>
+									{{ if .notes}}
+										{{ range  $key, $value := .notes }}
+											{{ $key }}  {{ $value }} 
+											<br>
+										{{ end }}
+									{{ end }}
+								{{ end }}
+							</div>								
+						</div>
+						<div class="row trans-row">
+							<div class="col-sm-5">
+								<b>Yusuf Ali Quran Translation</b>
+							</div>
+							<div class="col-sm-7">
+								{{ range .YAT }}
+									{{ .text }} 
+									<br>
+									<h45><i>Comments</i></h5>
+									{{ if .notes}}
+										{{ range  $key, $value := .notes }}
+											{{ $key }}  {{ $value }} 
+											<br>
+										{{ end }}
+									{{ end }}
+								{{ end }}								 
+							</div>								
+						</div>
+						<div class="row trans-row">
+							<div class="col-sm-5">
+								<b>Quran translitration</b>
+							</div>
+							<div class="col-sm-7">
+								{{ .TLT }} 
+							</div>									
+						</div>
+					</div>
+				</div>
+				{{ end }}
+		{{ end }}	
+	{{ end }}	
+{{ end }}
+{{ if and .Site.DisqusShortname (not .Params.disableComments) }}
+	<h4 class="page-header">Comments</h4>
+	{{ template "_internal/disqus.html" . }}
+{{ end }}

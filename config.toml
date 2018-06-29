@@ -1,8 +1,8 @@
-baseURL = "http://192.168.1.20"
+baseURL = "http://192.168.1.20/"
 languageCode = "en-us"
 title = "Alim.org"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
+disqusShortname = "Alim" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
@@ -30,6 +30,10 @@ googleAnalytics = ""
     url = "/Hadith/SAD/1"
     name = "Hadith"
     weight = 3
+[[menu.main]]
+    url = "/Quran/Compare/1/1"
+    name = "Comapre Translation"
+    weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used

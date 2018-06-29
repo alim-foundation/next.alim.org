@@ -3,180 +3,390 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/hadith/amh/1/</loc>
+    <loc>http://192.168.1.20/hadith/amh/1/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/hadith/amh/2/</loc>
+    <loc>http://192.168.1.20/hadith/amh/10/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/hadith/tir/1/</loc>
+    <loc>http://192.168.1.20/hadith/amh/2/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/hadith/tir/2/</loc>
+    <loc>http://192.168.1.20/hadith/amh/3/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/hadith/hdq/1/</loc>
+    <loc>http://192.168.1.20/hadith/amh/4/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/hadith/hdq/2/</loc>
+    <loc>http://192.168.1.20/hadith/amh/5/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/hadith/nwh/1/</loc>
+    <loc>http://192.168.1.20/hadith/amh/6/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/hadith/nwh/2/</loc>
+    <loc>http://192.168.1.20/hadith/amh/7/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/hadith/sad/1/</loc>
+    <loc>http://192.168.1.20/hadith/amh/8/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/hadith/sad/2/</loc>
+    <loc>http://192.168.1.20/hadith/amh/9/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/surah/1/</loc>
+    <loc>http://192.168.1.20/hadith/tir/1/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/1/1/</loc>
+    <loc>http://192.168.1.20/hadith/tir/2/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/1/2/</loc>
+    <loc>http://192.168.1.20/hadith/hdq/1/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/1/3/</loc>
+    <loc>http://192.168.1.20/hadith/hdq/10/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/1/4/</loc>
+    <loc>http://192.168.1.20/hadith/hdq/2/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/1/5/</loc>
+    <loc>http://192.168.1.20/hadith/hdq/3/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/1/6/</loc>
+    <loc>http://192.168.1.20/hadith/hdq/4/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/2/1/</loc>
+    <loc>http://192.168.1.20/hadith/hdq/5/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/2/2/</loc>
+    <loc>http://192.168.1.20/hadith/hdq/6/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/2/3/</loc>
+    <loc>http://192.168.1.20/hadith/hdq/7/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/2/4/</loc>
+    <loc>http://192.168.1.20/hadith/hdq/8/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/2/5/</loc>
+    <loc>http://192.168.1.20/hadith/hdq/9/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/2/6/</loc>
+    <loc>http://192.168.1.20/hadith/nwh/1/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/3/</loc>
+    <loc>http://192.168.1.20/hadith/nwh/10/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/4/</loc>
+    <loc>http://192.168.1.20/hadith/nwh/2/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/6/</loc>
+    <loc>http://192.168.1.20/hadith/nwh/3/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/ayah/7/</loc>
+    <loc>http://192.168.1.20/hadith/nwh/4/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/surah/2/</loc>
+    <loc>http://192.168.1.20/hadith/nwh/5/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/surah/3/</loc>
+    <loc>http://192.168.1.20/hadith/nwh/6/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/quran/surah/4/</loc>
+    <loc>http://192.168.1.20/hadith/nwh/7/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://192.168.1.20/hadith/nwh/8/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/hadith/nwh/9/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/hadith/sad/1/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/hadith/sad/10/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/hadith/sad/2/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/hadith/sad/3/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/hadith/sad/4/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/hadith/sad/5/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/hadith/sad/6/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/hadith/sad/7/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/hadith/sad/8/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/hadith/sad/9/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/surah/1/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/1/2/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/1/5/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/1/1/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/1/3/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/1/6/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/1/7/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/1/4/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/surah/2/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/2/1/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/2/2/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/2/3/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/2/4/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/2/5/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/2/6/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/surah/3/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/3/1/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/3/2/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/3/3/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/3/4/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/3/5/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/3/6/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/surah/4/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/4/1/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/4/2/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/4/3/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/4/4/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/4/5/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/compare/4/6/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/quran/surah/5/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.20/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>http://192.168.1.20/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/hadith/</loc>
+    <loc>http://192.168.1.20/hadith/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/quran/</loc>
+    <loc>http://192.168.1.20/quran/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>http://192.168.1.20/tags/</loc>
     <priority>0</priority>
   </url>
   

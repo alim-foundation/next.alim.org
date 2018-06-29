@@ -1,4 +1,5 @@
 {
+	"Book" : "Quran",
 	"Surahnumber": "2",
 	"Surahname" : "Al-Baqara",
 	"explore": [
@@ -8,7 +9,36 @@
 			"Ayahnumer": "0",
 			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/001001.mp3",
 			"Tags": "",
-			"Body": "﻿بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"
+			"ARB": "﻿بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+			"ASD" : [{
+					"text": "IN THE NAME OF GOD, THE MOST GRACIOUS, THE DISPENSER OF GRACE 1",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"2" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"MAL" : [{
+					"text":"In the name of Allah, the Compassionate, the Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"YAT" : [{
+					"text":"In the name of Allah Most Gracious Most Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"PIK" : [{
+					"text":"In the name of Allah, the Beneficent, the Merciful",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"TLT" : "Bismi Allahi alrrahmani alrraheemi"
 		},
 		{
 			"Title": "",
@@ -16,7 +46,36 @@
 			"Ayahnumer": "1",
 			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002001.mp3",
 			"Tags": "",
-			"Body": "الم"
+			"ARB": "الم",
+			"ASD" : [{
+					"text": "IN THE NAME OF GOD, THE MOST GRACIOUS, THE DISPENSER OF GRACE 1",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"2" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"MAL" : [{
+					"text":"In the name of Allah, the Compassionate, the Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"YAT" : [{
+					"text":"In the name of Allah Most Gracious Most Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"PIK" : [{
+					"text":"In the name of Allah, the Beneficent, the Merciful",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"TLT" : "Bismi Allahi alrrahmani alrraheemi"
 		},
 		{
 			"Title": "",
@@ -24,7 +83,36 @@
 			"Ayahnumer": "2",
 			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002002.mp3",
 			"Tags": "",
-			"Body": "﻿ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِلْمُتَّقِينَ"
+			"ARB": "﻿ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِلْمُتَّقِينَ",
+			"ASD" : [{
+					"text": "IN THE NAME OF GOD, THE MOST GRACIOUS, THE DISPENSER OF GRACE 1",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"2" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"MAL" : [{
+					"text":"In the name of Allah, the Compassionate, the Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"YAT" : [{
+					"text":"In the name of Allah Most Gracious Most Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"PIK" : [{
+					"text":"In the name of Allah, the Beneficent, the Merciful",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"TLT" : "Bismi Allahi alrrahmani alrraheemi"
 		},
 		{
 			"Title": "",
@@ -32,7 +120,36 @@
 			"Ayahnumer": "3",
 			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002003.mp3",
 			"Tags": "",
-			"Body": "﻿﻿الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ"
+			"ARB": "﻿﻿الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+			"ASD" : [{
+					"text": "IN THE NAME OF GOD, THE MOST GRACIOUS, THE DISPENSER OF GRACE 1",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"2" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"MAL" : [{
+					"text":"In the name of Allah, the Compassionate, the Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"YAT" : [{
+					"text":"In the name of Allah Most Gracious Most Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"PIK" : [{
+					"text":"In the name of Allah, the Beneficent, the Merciful",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"TLT" : "Bismi Allahi alrrahmani alrraheemi"
 		},
 		{
 			"Title": "",
@@ -40,7 +157,36 @@
 			"Ayahnumer": "4",
 			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002004.mp3",
 			"Tags": "",
-			"Body": "﻿﻿وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ"
+			"ARB": "﻿﻿وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
+			"ASD" : [{
+					"text": "IN THE NAME OF GOD, THE MOST GRACIOUS, THE DISPENSER OF GRACE 1",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"2" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"MAL" : [{
+					"text":"In the name of Allah, the Compassionate, the Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"YAT" : [{
+					"text":"In the name of Allah Most Gracious Most Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"PIK" : [{
+					"text":"In the name of Allah, the Beneficent, the Merciful",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"TLT" : "Bismi Allahi alrrahmani alrraheemi"
 		},
 		{
 			"Title": "",
@@ -48,7 +194,36 @@
 			"Ayahnumer": "5",
 			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002005.mp3",
 			"Tags": "",
-			"Body": "﻿﻿أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ"
+			"ARB": "﻿﻿أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+			"ASD" : [{
+					"text": "IN THE NAME OF GOD, THE MOST GRACIOUS, THE DISPENSER OF GRACE 1",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"2" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"MAL" : [{
+					"text":"In the name of Allah, the Compassionate, the Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"YAT" : [{
+					"text":"In the name of Allah Most Gracious Most Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"PIK" : [{
+					"text":"In the name of Allah, the Beneficent, the Merciful",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"TLT" : "Bismi Allahi alrrahmani alrraheemi"
 		},
 		{
 			"Title": "",
@@ -56,7 +231,36 @@
 			"Ayahnumer": "6",
 			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002006.mp3",
 			"Tags": "",
-			"Body": "﻿إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُونَ"
+			"ARB": "﻿إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُونَ",
+			"ASD" : [{
+					"text": "IN THE NAME OF GOD, THE MOST GRACIOUS, THE DISPENSER OF GRACE 1",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"2" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"MAL" : [{
+					"text":"In the name of Allah, the Compassionate, the Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"YAT" : [{
+					"text":"In the name of Allah Most Gracious Most Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"PIK" : [{
+					"text":"In the name of Allah, the Beneficent, the Merciful",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"TLT" : "Bismi Allahi alrrahmani alrraheemi"
 		},
 		{
 			"Title": "",
@@ -64,7 +268,36 @@
 			"Ayahnumer": "7",
 			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002007.mp3",
 			"Tags": "",
-			"Body": "﻿خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ"
+			"ARB": "﻿خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+			"ASD" : [{
+					"text": "IN THE NAME OF GOD, THE MOST GRACIOUS, THE DISPENSER OF GRACE 1",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"2" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"MAL" : [{
+					"text":"In the name of Allah, the Compassionate, the Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"YAT" : [{
+					"text":"In the name of Allah Most Gracious Most Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"PIK" : [{
+					"text":"In the name of Allah, the Beneficent, the Merciful",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"TLT" : "Bismi Allahi alrrahmani alrraheemi"
 		}
 		,
 		{
@@ -73,7 +306,36 @@
 			"Ayahnumer": "8",
 			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002007.mp3",
 			"Tags": "",
-			"Body": "﻿وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ وَمَا هُمْ بِمُؤْمِنِينَ"
+			"ARB": "﻿وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ وَمَا هُمْ بِمُؤْمِنِينَ",
+			"ASD" : [{
+					"text": "IN THE NAME OF GOD, THE MOST GRACIOUS, THE DISPENSER OF GRACE 1",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"2" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"MAL" : [{
+					"text":"In the name of Allah, the Compassionate, the Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"YAT" : [{
+					"text":"In the name of Allah Most Gracious Most Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"PIK" : [{
+					"text":"In the name of Allah, the Beneficent, the Merciful",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"TLT" : "Bismi Allahi alrrahmani alrraheemi"
 		}
 		,
 		{
@@ -82,7 +344,36 @@
 			"Ayahnumer": "9",
 			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002007.mp3",
 			"Tags": "",
-			"Body": "﻿﻿يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنْفُسَهُمْ وَمَا يَشْعُرُونَ"
+			"ARB": "﻿﻿يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنْفُسَهُمْ وَمَا يَشْعُرُونَ",
+			"ASD" : [{
+					"text": "IN THE NAME OF GOD, THE MOST GRACIOUS, THE DISPENSER OF GRACE 1",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"2" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"MAL" : [{
+					"text":"In the name of Allah, the Compassionate, the Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"YAT" : [{
+					"text":"In the name of Allah Most Gracious Most Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"PIK" : [{
+					"text":"In the name of Allah, the Beneficent, the Merciful",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"TLT" : "Bismi Allahi alrrahmani alrraheemi"
 		}
 		,
 		{
@@ -91,7 +382,36 @@
 			"Ayahnumer": "10",
 			"Recitation": "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/002007.mp3",
 			"Tags": "",
-			"Body": "﻿فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ"
+			"ARB": "﻿فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ",
+			"ASD" : [{
+					"text": "IN THE NAME OF GOD, THE MOST GRACIOUS, THE DISPENSER OF GRACE 1",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"2" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"MAL" : [{
+					"text":"In the name of Allah, the Compassionate, the Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"YAT" : [{
+					"text":"In the name of Allah Most Gracious Most Merciful.",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"PIK" : [{
+					"text":"In the name of Allah, the Beneficent, the Merciful",
+					"notes":{
+							"1" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses.",
+							"3" : "According to most of the authorities, this invocation (which occurs at the beginning of every surah with the exception of surah 9) constitutes an integral part of \"The Opening\" and is, therefore, numbered as verse {1}. In all other instances, the invocation \"in the name of God\" precedes the surah as such, and is not counted among its verses."
+					}
+			}],
+			"TLT" : "Bismi Allahi alrrahmani alrraheemi"
 		}
 		
     ]

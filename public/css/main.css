@@ -99,10 +99,16 @@ img {
     max-width: 100%;
 }
 .main-box{width:575px; margin-top:30px;}
-.main-box .audio-box{width:300px; float:left;}
+.main-box .audio-box{}
 .number-box{min-width:30px; height:30px; border-radius:50%; background:#dddddd;position: relative;
     top: 10px;
     margin-right: 10px; display:block; text-align: center; line-height:30px; color:#337ab7 !important;}
-.audio-box audio{width: 260px !important;}
+.audio-box audio{}
 .selectaudio{ font-size: 16px !important;}
 #hadithlist{float: right;}
+.ayah-box{ text-align: right !important ; padding-right: 15px !important;}
+audio {width:100%;}
+.ayah-text{text-align:right !important; padding-top: 15px !important;padding-right: 0px !important;font-size: 17px;}
+.main-row{margin:15px 0px 15px 0px; padding:0px 0px 15px 0px; border-bottom: 1px solid #dddddd;}
+.trans-row{margin:0px 0px 15px 0px; padding:0px 0px 15px 0px; border-bottom: 1px solid #dddddd;}
+.arabic-ayah{padding-top: 10px;}
