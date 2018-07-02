@@ -7,6 +7,8 @@ layout: "compare"
 BookCode : "CMP"
 SurahNumber: "2"
 AyahNumber: "4"
+TotalAyah: "286"
+Juz: "2"
 aliases : [
 ]
 ---

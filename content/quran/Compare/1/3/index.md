@@ -8,6 +8,7 @@ BookCode : "CMP"
 SurahNumber: "1"
 AyahNumber: "3"
 TotalAyah: "7"
+Juz: "1"
 aliases : [
 ]
 ---
