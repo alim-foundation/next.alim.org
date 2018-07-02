@@ -1,6 +1,7 @@
 {{$SurahNumber := .Params.SurahNumber}} 
 {{$AyahNumber := .Params.AyahNumber}} 
 {{$TotalAyah := .Params.TotalAyah}}
+{{$CurrAyah := int .Params.AyahNumber}}
 <div class="row">
 	<div class="col-md-6">
 		<select id="surahlist-compare">
@@ -10,13 +11,11 @@
 		  <option {{ if (eq .Params.SurahNumber "4" ) }} selected {{ end }} value="4">An-Nisa</option>
 		</select>
 	</div>
-		<div class="col-md-6">
+	<div class="col-md-6">
 		<select id="ayahlist-compare">
-		  <option {{ if (eq .Params.AyahNumber "1" ) }} selected {{ end }} value="1">1</option>
-		  <option {{ if (eq .Params.AyahNumber "2" ) }} selected {{ end }} value="2">2</option>
-		  <option {{ if (eq .Params.AyahNumber "3" ) }} selected {{ end }} value="3">3</option>
-		  <option {{ if (eq .Params.AyahNumber "4" ) }} selected {{ end }} value="4">4</option>
-		  <option {{ if (eq .Params.AyahNumber "5" ) }} selected {{ end }} value="5">5</option>
+			{{ range $i, $sequence :=  (seq $TotalAyah) }} 
+				<option {{ if (eq $sequence $CurrAyah) }} selected {{ end }} value="{{$sequence}}"  >{{$sequence}}</option>			
+			{{ end }}
 		</select>
 	</div>
 </div>
