@@ -112,3 +112,75 @@ audio {width:100%;}
 .main-row{margin:15px 0px 15px 0px; padding:0px 0px 15px 0px; border-bottom: 1px solid #dddddd;}
 .trans-row{margin:0px 0px 15px 0px; padding:0px 0px 15px 0px; border-bottom: 1px solid #dddddd;}
 .arabic-ayah{padding-top: 10px;}
+
+.is-audio.flowplayer .fp-engine {
+  top: -99999em;
+}
+.is-audio.flowplayer .fp-player {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.is-audio.flowplayer.is-poster .fp-player {
+  background-size: 0;
+}
+.is-audio.flowplayer.is-ad-visible .fp-engine {
+  top: 0;
+}
+.is-audio-only.flowplayer .fp-engine,
+.is-audio-only.flowplayer >a {
+  top: -99999em;
+}
+.is-audio-only.flowplayer .fp-controls,
+.is-audio-only.flowplayer .fp-time {
+  display: block !important;
+}
+.is-audio-only.flowplayer .fp-brand,
+.is-audio-only.flowplayer .fp-header,
+.is-audio-only.flowplayer .fp-title {
+  display: none !important;
+}
+.is-audio-only.flowplayer.is-audio-only-7x {
+  background-color: rgba(0,0,0,0) !important;
+}
+.is-audio-only.flowplayer.is-audio-only-7x .fp-ui {
+  cursor: default;
+}
+.is-audio-only.flowplayer.is-audio-only-7x .fp-controls,
+.is-audio-only.flowplayer.is-audio-only-7x .fp-timeline {
+  display: -ms-flexbox !important;
+  display: -webkit-flex !important;
+  display: flex !important;
+  cursor: pointer;
+}
+.is-audio-only.flowplayer.is-audio-only-7x .fp-timeline {
+  width: 100% !important;
+}
+.is-audio-only.flowplayer.is-audio-only-7x.is-loading .fp-controls {
+  opacity: 1;
+}
+.is-audio-only.flowplayer.is-splash .fp-duration,
+.is-audio-only.flowplayer.is-splash .fp-timeline,
+.is-audio-only.flowplayer.is-splash .fp-timeline-tooltip,
+.is-audio-only.flowplayer.is-splash .fp-timestamp {
+  display: none;
+  cursor: default;
+}
+.is-audio-only.flowplayer.is-splash .fp-buffer,
+.is-audio-only.flowplayer.is-splash .fp-progress,
+.is-audio-only.flowplayer.is-splash .fp-volumelevel {
+  width: 0 !important;
+}
+.top-box legend{
+    margin: 0px;
+    border: none !important;
+    float:left;width:100%;
+}
+.top-box table{
+   width: 100% !important;
+}
+.top-box table td input{
+   margin-bottom: 5px !important;
+}
+.fp-previous{top:7px !important;}
+.fp-next{top:7px !important;}

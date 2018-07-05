@@ -8,20 +8,17 @@
     <script>hljs.initHighlightingOnLoad();</script>
 
 {{ end }}
-
 <!-- jquery -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-
-<!-- bootstrap -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
 <!-- main -->
 <script src="/js/main.js"></script>
-
+<!-- FlowPlayer -->
+<script src="http://www.alim.org/sites/all/themes/alim/flowplayer/flowplayer.min.js"></script>
+<script src="http://www.alim.org/sites/all/themes/alim/flowplayer/flowplayer.hlsjs.min.js"></script>
+<script src="http://www.alim.org/sites/all/themes/alim/flowplayer/flowplayer.audio.js"></script>
+<!-- bootstrap -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <!-- custom -->
 {{ range .Site.Params.js }} <script src="{{ . | absURL }}"></script> {{ end }}
-
-
-
 <!-- dismiss expanded navigation bar with click -->
 <script> $(document).on('click', function() { $('.collapse').collapse('hide'); })</script>

@@ -6,7 +6,7 @@ type : "quran"
 layout: "surah"
 BookCode : "ARB"
 SurahNumber: "3"
-TotalAyah: 7
+TotalAyah: 200
 aliases : [
 ]
 ---

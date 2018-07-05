@@ -1,3 +1,5 @@
+{{$TotalAyah := .Params.TotalAyah}}
+{{$CurrAyah := int .Params.AyahNumber}}
 <div class="row">
 	<div class="col-md-12">
 		<select id="surahlist">
@@ -9,6 +11,97 @@
 		</select>
 	</div>
 </div>
+
+<div class="row">
+	<div class="col-md-12">
+		<select name="element" id="reciter_list">
+			<option value="Abdul_Basit_Mujawwad_128kbps">AbdulBasit(Mujawwad)</option>
+			<option value="Abdul_Basit_Murattal_192kbps">AbdulBasit(Murattal)</option>
+			<option value="Abdullah_Basfar_192kbps">AbdullahBasfar</option>
+			<option value="Abdurrahmaan_As-Sudais_192kbps">Abdurrahmaan-As-Sudais</option>
+			<option value="Hudhaify_128kbps">Al-Hudhaify</option>
+			<option value="Husary_128kbps_Mujawwad">Al-Husary(Mujawwad)</option>
+			<option value="Minshawy_Mujawwad_192kbps">Al-Minshawy(Mujawwad)</option>
+			<option value="Minshawy_Murattal_128kbps">Al-Minshawy(Murattal)</option>
+			<option value="Abu_Bakr_Ash-Shaatree_128kbps">Ash-Shaatree</option>
+			<option value="Saood_ash-Shuraym_128kbps">Ash-Shuraym</option>
+			<option value="Hani_Rifai_192kbps">Hani-Rifai</option>
+			<option value="Alafasy_128kbps" selected="selected">MisharyRashidAl-Afasy</option>
+			<option value="Muhammad_Jibreel_128kbps">MuhammadJibreel</option>
+		</select>
+	</div>
+</div>
+<div id="icecast" style=" margin: 10px 0px 55px !important;bottom: 0px !important;" ></div>
+<div style="padding-top: 24px;">
+   <div style="padding-bottom:5px;;float:left">Currently Reciting Ayah : </div>
+   <div style="padding-left:5px;float:left" id='curraya'> 1 </div>
+   <div style="clear:both"></div>
+</div>
+<div class="hline"></div>
+<div style="margin:2px 0;">
+<div style="margin-bottom:15px;">Repeat Times</div>
+<div class="row top-box">
+    <div class="col-sm-6">
+        <fieldset style="border:1px solid #333; padding:5px;">
+        <legend style="color:#FFF !important">
+            <input name="surahOrAyah" id="surahOrAyah1" value="1" checked="checked" type="radio" class="surah_radio" style="float: left;" />Surah
+        </legend>
+        <div id="su1" style=" padding:3px; float:left;">Each Surah&nbsp;&nbsp;&nbsp;&nbsp;
+            <input value="1" name="repeatSurah" id="repeatSurah" type="text" style="width:20px;"  /> Times 
+        </div>
+        </fieldset>
+    </div>
+     <div class="col-sm-6">
+       <fieldset style="border:1px solid #333; padding:5px; ">
+        <legend style="color:#FFF !important">
+            <input name="surahOrAyah" id="surahOrAyah2" value="2" type="radio" class="ayah_radio" style="float: left;" />Ayah
+        </legend>
+        <table cellspacing="0" cellpadding="0">
+            <tr>
+                <td align="left"></td>
+                <td align="left" valign="middle">
+                    <div id="repeatfromto">
+                    <table cellpadding="1" cellspacing="2" width="153">
+                        <tbody>
+                            <tr>
+                                <td valign="top"> Each</td>
+                                <td valign="top"> Ayah </td>
+                                <td valign="top">
+                                <input value="1" name="repeatAyah" id="repeatAyah" type="text" style="width:20px;"  /> Times 
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="3">
+                                <hr style="border:1px solid #333; padding:0; margin-bottom:10px;" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top">Ayah</td>
+                                <td valign="top">From</td>
+                                <td valign="top">
+                                <input value="1" name="From" id="From" type="text" style="width:23px;" /> To
+                                <input value="" name="To" id="To" type="text" style="width:23px;" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top">&nbsp;</td>
+                                <td valign="top">&nbsp;</td>
+                                <td valign="top" >
+                                <input value="1" name="repeatsurahByAya" id="repeatsurahByAya" type="text" style="width:20px;" /> Times
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        </fieldset> 
+    </div>
+</div>
+
+                  
+
 {{$SurahNumber := .Params.SurahNumber}} 
 {{ if $SurahNumber }} 
 	{{ range index $.Site.Data.quran $SurahNumber}}
@@ -16,17 +109,17 @@
 			<div class="row">
 				<div id="quran-content">
 					<div class="main-box">
-						<div class="col-sm-7 ayah-text" dir="rtl" >
+						<div class="col-sm-6 selectaudio" id ="ayah-text_{{ .Ayahnumber }}" dir="rtl" >
 							{{ .ARB }} 
 						</div>
 						<div class="col-sm-1">
-							{{ if (ne .Ayahnumer "0" ) }} 
+							{{ if (ne .Ayahnumber "0" ) }} 
 								<div  class="number-box">
-									{{ .Ayahnumer }}
+									{{ .Ayahnumber }}
 								</div>
 							{{ end }}
 						</div>
-						<div class="col-sm-4">
+						<div class="col-sm-5">
 							<div class="audio-box">
 								<div class="right-audios">
 									<audio  controls>
