@@ -201,7 +201,7 @@ $(document).ready(function() {
     function getPlayListBySurah() {
         var pathArray = window.location.pathname.split( '/' );
         var surahNumer = pathArray[3];
-        var left_url = "/data/alimplayer_surah//arabic/"+surahNumer+"/";
+        var left_url = "/data/alimplayer_surah/arabic/"+surahNumer+"/";
         var right_url = ".txt";
         currentReciter = document.getElementById("reciter_list").value; 
         filePath = left_url+currentReciter+right_url;
