@@ -1,0 +1,1417 @@
+[{
+                 sources: [      
+                    { 
+                      title:"1",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/001001.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"2",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004001.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"3",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004002.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"4",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004003.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"5",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004004.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"6",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004005.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"7",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004006.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"8",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004007.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"9",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004008.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"10",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004009.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"11",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004010.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"12",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004011.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"13",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004012.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"14",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004013.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"15",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004014.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"16",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004015.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"17",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004016.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"18",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004017.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"19",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004018.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"20",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004019.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"21",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004020.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"22",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004021.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"23",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004022.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"24",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004023.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"25",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004024.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"26",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004025.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"27",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004026.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"28",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004027.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"29",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004028.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"30",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004029.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"31",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004030.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"32",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004031.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"33",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004032.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"34",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004033.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"35",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004034.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"36",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004035.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"37",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004036.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"38",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004037.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"39",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004038.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"40",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004039.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"41",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004040.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"42",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004041.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"43",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004042.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"44",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004043.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"45",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004044.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"46",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004045.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"47",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004046.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"48",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004047.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"49",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004048.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"50",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004049.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"51",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004050.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"52",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004051.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"53",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004052.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"54",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004053.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"55",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004054.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"56",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004055.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"57",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004056.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"58",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004057.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"59",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004058.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"60",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004059.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"61",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004060.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"62",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004061.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"63",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004062.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"64",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004063.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"65",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004064.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"66",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004065.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"67",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004066.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"68",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004067.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"69",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004068.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"70",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004069.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"71",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004070.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"72",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004071.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"73",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004072.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"74",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004073.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"75",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004074.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"76",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004075.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"77",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004076.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"78",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004077.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"79",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004078.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"80",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004079.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"81",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004080.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"82",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004081.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"83",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004082.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"84",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004083.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"85",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004084.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"86",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004085.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"87",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004086.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"88",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004087.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"89",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004088.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"90",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004089.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"91",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004090.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"92",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004091.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"93",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004092.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"94",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004093.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"95",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004094.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"96",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004095.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"97",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004096.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"98",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004097.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"99",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004098.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"100",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004099.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"101",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004100.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"102",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004101.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"103",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004102.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"104",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004103.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"105",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004104.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"106",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004105.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"107",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004106.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"108",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004107.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"109",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004108.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"110",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004109.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"111",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004110.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"112",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004111.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"113",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004112.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"114",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004113.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"115",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004114.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"116",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004115.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"117",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004116.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"118",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004117.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"119",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004118.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"120",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004119.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"121",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004120.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"122",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004121.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"123",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004122.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"124",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004123.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"125",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004124.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"126",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004125.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"127",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004126.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"128",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004127.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"129",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004128.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"130",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004129.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"131",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004130.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"132",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004131.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"133",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004132.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"134",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004133.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"135",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004134.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"136",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004135.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"137",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004136.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"138",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004137.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"139",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004138.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"140",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004139.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"141",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004140.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"142",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004141.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"143",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004142.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"144",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004143.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"145",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004144.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"146",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004145.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"147",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004146.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"148",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004147.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"149",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004148.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"150",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004149.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"151",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004150.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"152",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004151.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"153",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004152.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"154",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004153.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"155",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004154.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"156",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004155.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"157",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004156.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"158",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004157.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"159",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004158.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"160",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004159.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"161",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004160.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"162",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004161.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"163",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004162.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"164",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004163.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"165",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004164.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"166",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004165.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"167",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004166.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"168",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004167.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"169",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004168.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"170",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004169.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"171",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004170.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"172",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004171.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"173",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004172.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"174",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004173.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"175",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004174.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"176",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004175.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"177",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hani_Rifai_192kbps/004176.mp3" 
+                    }
+                  ]
+                }]

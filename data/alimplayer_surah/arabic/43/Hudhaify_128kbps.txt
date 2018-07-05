@@ -1,0 +1,721 @@
+[{
+                 sources: [      
+                    { 
+                      title:"1",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/001001.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"2",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043001.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"3",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043002.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"4",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043003.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"5",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043004.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"6",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043005.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"7",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043006.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"8",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043007.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"9",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043008.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"10",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043009.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"11",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043010.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"12",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043011.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"13",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043012.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"14",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043013.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"15",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043014.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"16",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043015.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"17",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043016.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"18",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043017.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"19",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043018.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"20",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043019.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"21",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043020.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"22",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043021.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"23",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043022.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"24",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043023.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"25",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043024.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"26",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043025.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"27",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043026.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"28",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043027.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"29",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043028.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"30",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043029.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"31",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043030.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"32",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043031.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"33",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043032.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"34",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043033.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"35",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043034.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"36",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043035.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"37",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043036.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"38",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043037.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"39",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043038.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"40",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043039.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"41",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043040.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"42",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043041.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"43",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043042.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"44",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043043.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"45",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043044.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"46",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043045.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"47",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043046.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"48",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043047.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"49",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043048.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"50",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043049.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"51",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043050.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"52",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043051.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"53",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043052.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"54",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043053.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"55",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043054.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"56",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043055.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"57",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043056.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"58",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043057.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"59",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043058.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"60",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043059.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"61",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043060.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"62",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043061.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"63",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043062.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"64",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043063.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"65",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043064.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"66",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043065.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"67",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043066.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"68",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043067.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"69",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043068.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"70",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043069.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"71",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043070.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"72",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043071.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"73",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043072.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"74",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043073.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"75",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043074.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"76",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043075.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"77",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043076.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"78",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043077.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"79",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043078.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"80",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043079.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"81",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043080.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"82",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043081.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"83",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043082.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"84",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043083.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"85",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043084.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"86",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043085.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"87",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043086.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"88",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043087.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"89",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043088.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"90",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Hudhaify_128kbps/043089.mp3" 
+                    }
+                  ]
+                }]

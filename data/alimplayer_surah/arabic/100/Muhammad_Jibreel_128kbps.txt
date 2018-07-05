@@ -1,0 +1,97 @@
+[{
+                 sources: [      
+                    { 
+                      title:"1",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Muhammad_Jibreel_128kbps/001001.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"2",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Muhammad_Jibreel_128kbps/100001.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"3",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Muhammad_Jibreel_128kbps/100002.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"4",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Muhammad_Jibreel_128kbps/100003.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"5",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Muhammad_Jibreel_128kbps/100004.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"6",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Muhammad_Jibreel_128kbps/100005.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"7",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Muhammad_Jibreel_128kbps/100006.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"8",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Muhammad_Jibreel_128kbps/100007.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"9",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Muhammad_Jibreel_128kbps/100008.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"10",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Muhammad_Jibreel_128kbps/100009.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"11",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Muhammad_Jibreel_128kbps/100010.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"12",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Muhammad_Jibreel_128kbps/100011.mp3" 
+                    }
+                  ]
+                }]

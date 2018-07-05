@@ -1,0 +1,777 @@
+[{
+                 sources: [      
+                    { 
+                      title:"1",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/001001.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"2",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056001.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"3",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056002.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"4",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056003.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"5",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056004.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"6",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056005.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"7",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056006.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"8",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056007.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"9",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056008.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"10",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056009.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"11",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056010.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"12",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056011.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"13",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056012.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"14",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056013.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"15",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056014.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"16",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056015.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"17",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056016.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"18",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056017.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"19",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056018.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"20",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056019.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"21",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056020.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"22",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056021.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"23",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056022.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"24",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056023.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"25",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056024.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"26",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056025.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"27",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056026.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"28",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056027.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"29",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056028.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"30",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056029.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"31",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056030.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"32",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056031.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"33",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056032.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"34",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056033.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"35",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056034.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"36",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056035.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"37",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056036.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"38",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056037.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"39",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056038.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"40",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056039.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"41",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056040.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"42",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056041.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"43",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056042.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"44",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056043.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"45",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056044.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"46",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056045.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"47",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056046.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"48",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056047.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"49",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056048.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"50",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056049.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"51",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056050.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"52",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056051.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"53",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056052.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"54",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056053.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"55",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056054.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"56",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056055.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"57",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056056.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"58",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056057.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"59",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056058.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"60",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056059.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"61",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056060.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"62",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056061.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"63",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056062.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"64",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056063.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"65",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056064.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"66",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056065.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"67",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056066.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"68",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056067.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"69",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056068.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"70",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056069.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"71",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056070.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"72",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056071.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"73",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056072.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"74",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056073.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"75",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056074.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"76",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056075.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"77",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056076.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"78",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056077.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"79",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056078.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"80",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056079.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"81",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056080.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"82",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056081.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"83",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056082.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"84",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056083.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"85",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056084.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"86",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056085.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"87",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056086.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"88",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056087.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"89",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056088.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"90",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056089.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"91",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056090.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"92",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056091.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"93",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056092.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"94",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056093.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"95",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056094.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"96",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056095.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"97",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Alafasy_128kbps/056096.mp3" 
+                    }
+                  ]
+                }]

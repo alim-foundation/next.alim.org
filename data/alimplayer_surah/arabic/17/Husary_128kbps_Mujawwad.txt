@@ -1,0 +1,897 @@
+[{
+                 sources: [      
+                    { 
+                      title:"1",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/001001.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"2",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017001.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"3",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017002.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"4",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017003.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"5",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017004.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"6",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017005.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"7",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017006.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"8",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017007.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"9",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017008.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"10",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017009.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"11",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017010.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"12",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017011.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"13",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017012.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"14",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017013.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"15",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017014.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"16",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017015.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"17",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017016.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"18",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017017.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"19",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017018.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"20",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017019.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"21",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017020.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"22",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017021.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"23",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017022.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"24",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017023.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"25",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017024.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"26",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017025.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"27",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017026.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"28",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017027.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"29",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017028.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"30",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017029.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"31",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017030.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"32",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017031.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"33",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017032.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"34",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017033.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"35",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017034.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"36",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017035.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"37",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017036.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"38",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017037.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"39",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017038.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"40",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017039.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"41",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017040.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"42",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017041.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"43",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017042.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"44",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017043.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"45",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017044.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"46",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017045.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"47",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017046.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"48",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017047.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"49",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017048.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"50",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017049.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"51",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017050.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"52",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017051.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"53",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017052.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"54",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017053.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"55",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017054.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"56",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017055.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"57",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017056.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"58",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017057.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"59",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017058.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"60",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017059.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"61",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017060.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"62",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017061.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"63",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017062.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"64",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017063.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"65",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017064.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"66",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017065.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"67",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017066.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"68",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017067.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"69",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017068.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"70",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017069.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"71",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017070.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"72",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017071.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"73",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017072.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"74",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017073.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"75",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017074.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"76",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017075.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"77",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017076.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"78",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017077.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"79",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017078.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"80",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017079.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"81",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017080.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"82",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017081.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"83",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017082.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"84",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017083.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"85",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017084.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"86",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017085.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"87",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017086.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"88",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017087.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"89",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017088.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"90",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017089.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"91",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017090.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"92",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017091.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"93",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017092.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"94",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017093.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"95",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017094.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"96",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017095.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"97",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017096.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"98",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017097.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"99",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017098.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"100",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017099.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"101",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017100.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"102",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017101.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"103",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017102.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"104",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017103.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"105",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017104.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"106",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017105.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"107",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017106.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"108",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017107.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"109",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017108.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"110",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017109.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"111",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017110.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"112",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Husary_128kbps_Mujawwad/017111.mp3" 
+                    }
+                  ]
+                }]

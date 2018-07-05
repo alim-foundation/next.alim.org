@@ -1,0 +1,1825 @@
+[{
+                 sources: [      
+                    { 
+                      title:"1",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/001001.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"2",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026001.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"3",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026002.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"4",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026003.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"5",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026004.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"6",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026005.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"7",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026006.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"8",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026007.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"9",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026008.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"10",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026009.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"11",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026010.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"12",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026011.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"13",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026012.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"14",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026013.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"15",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026014.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"16",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026015.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"17",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026016.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"18",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026017.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"19",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026018.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"20",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026019.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"21",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026020.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"22",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026021.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"23",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026022.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"24",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026023.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"25",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026024.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"26",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026025.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"27",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026026.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"28",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026027.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"29",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026028.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"30",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026029.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"31",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026030.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"32",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026031.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"33",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026032.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"34",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026033.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"35",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026034.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"36",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026035.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"37",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026036.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"38",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026037.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"39",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026038.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"40",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026039.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"41",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026040.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"42",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026041.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"43",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026042.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"44",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026043.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"45",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026044.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"46",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026045.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"47",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026046.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"48",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026047.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"49",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026048.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"50",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026049.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"51",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026050.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"52",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026051.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"53",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026052.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"54",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026053.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"55",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026054.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"56",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026055.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"57",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026056.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"58",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026057.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"59",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026058.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"60",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026059.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"61",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026060.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"62",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026061.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"63",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026062.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"64",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026063.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"65",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026064.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"66",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026065.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"67",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026066.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"68",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026067.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"69",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026068.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"70",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026069.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"71",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026070.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"72",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026071.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"73",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026072.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"74",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026073.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"75",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026074.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"76",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026075.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"77",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026076.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"78",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026077.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"79",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026078.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"80",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026079.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"81",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026080.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"82",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026081.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"83",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026082.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"84",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026083.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"85",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026084.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"86",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026085.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"87",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026086.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"88",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026087.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"89",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026088.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"90",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026089.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"91",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026090.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"92",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026091.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"93",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026092.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"94",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026093.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"95",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026094.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"96",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026095.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"97",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026096.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"98",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026097.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"99",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026098.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"100",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026099.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"101",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026100.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"102",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026101.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"103",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026102.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"104",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026103.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"105",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026104.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"106",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026105.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"107",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026106.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"108",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026107.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"109",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026108.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"110",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026109.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"111",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026110.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"112",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026111.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"113",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026112.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"114",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026113.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"115",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026114.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"116",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026115.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"117",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026116.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"118",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026117.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"119",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026118.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"120",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026119.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"121",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026120.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"122",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026121.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"123",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026122.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"124",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026123.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"125",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026124.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"126",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026125.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"127",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026126.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"128",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026127.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"129",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026128.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"130",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026129.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"131",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026130.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"132",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026131.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"133",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026132.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"134",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026133.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"135",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026134.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"136",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026135.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"137",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026136.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"138",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026137.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"139",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026138.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"140",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026139.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"141",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026140.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"142",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026141.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"143",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026142.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"144",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026143.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"145",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026144.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"146",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026145.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"147",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026146.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"148",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026147.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"149",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026148.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"150",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026149.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"151",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026150.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"152",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026151.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"153",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026152.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"154",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026153.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"155",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026154.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"156",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026155.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"157",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026156.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"158",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026157.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"159",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026158.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"160",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026159.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"161",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026160.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"162",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026161.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"163",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026162.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"164",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026163.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"165",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026164.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"166",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026165.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"167",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026166.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"168",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026167.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"169",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026168.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"170",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026169.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"171",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026170.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"172",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026171.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"173",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026172.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"174",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026173.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"175",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026174.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"176",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026175.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"177",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026176.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"178",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026177.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"179",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026178.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"180",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026179.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"181",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026180.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"182",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026181.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"183",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026182.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"184",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026183.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"185",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026184.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"186",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026185.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"187",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026186.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"188",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026187.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"189",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026188.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"190",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026189.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"191",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026190.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"192",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026191.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"193",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026192.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"194",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026193.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"195",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026194.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"196",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026195.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"197",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026196.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"198",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026197.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"199",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026198.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"200",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026199.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"201",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026200.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"202",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026201.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"203",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026202.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"204",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026203.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"205",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026204.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"206",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026205.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"207",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026206.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"208",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026207.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"209",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026208.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"210",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026209.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"211",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026210.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"212",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026211.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"213",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026212.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"214",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026213.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"215",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026214.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"216",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026215.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"217",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026216.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"218",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026217.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"219",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026218.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"220",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026219.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"221",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026220.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"222",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026221.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"223",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026222.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"224",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026223.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"225",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026224.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"226",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026225.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"227",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026226.mp3" 
+                    }
+                  ]
+                },{
+                 sources: [      
+                    { 
+                      title:"228",
+                      type: "audio/mp3",             
+                      src: "https://alim-quran.s3.amazonaws.com/recitation/Abdullah_Basfar_192kbps/026227.mp3" 
+                    }
+                  ]
+                }]
