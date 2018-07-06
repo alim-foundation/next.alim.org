@@ -371,7 +371,11 @@ function stop() {
     document.getElementById("To").value = ayahCount;  
     document.getElementById("repeatsurahByAya").value = 1;
     document.getElementById("surahOrAyah1").checked = true;
-    $("#surahOrAyah1").trigger("click");
+    document.getElementById('repeatSurah').disabled = false;                    
+    document.getElementById("repeatAyah").setAttribute("disabled", true);
+    document.getElementById("repeatsurahByAya").setAttribute("disabled", true);
+    document.getElementById("From").setAttribute("disabled", true);
+    document.getElementById("To").setAttribute("disabled", true);
     document.getElementById("curraya").innerHTML = 1; 
 }
 function nextAudio() { 
