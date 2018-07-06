@@ -22,7 +22,7 @@
 {{ if $SurahNumber }} 
 	{{ range index $.Site.Data.quran $SurahNumber }}
 		{{ range .explore  }}
-			{{ if (eq .Ayahnumer $AyahNumber ) }} 
+			{{ if (eq .Ayahnumber $AyahNumber ) }} 
 				<div id="compare-quran-content" class="">
 					<div class="compare-main-box">
 						<div class="row main-row" >
@@ -41,7 +41,7 @@
 							</div>	
 							<div class="col-sm-1">
 								<div  class="number-box col-sm-1">
-									{{ .Ayahnumer }}
+									{{ .Ayahnumber }}
 								</div>
 							</div>	
 						</div>
