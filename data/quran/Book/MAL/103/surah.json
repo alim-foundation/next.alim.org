@@ -1,0 +1,23 @@
+[
+    {
+        "BookCode":  "MAL",
+        "SurahNumber":  "103",
+        "AyahNumber":  "1",
+        "Recitation":  "Alafasy_128kbps/103001",
+        "Body":  "By the time through the ages!"
+    },
+    {
+        "BookCode":  "MAL",
+        "SurahNumber":  "103",
+        "AyahNumber":  "2",
+        "Recitation":  "Alafasy_128kbps/103002",
+        "Body":  "Surely mankind is in loss,"
+    },
+    {
+        "BookCode":  "MAL",
+        "SurahNumber":  "103",
+        "AyahNumber":  "3",
+        "Recitation":  "Alafasy_128kbps/103003",
+        "Body":  "except those who believe and do good deeds; exhort one another to\n\t\t\tthe truth and exhort one another to patience."
+    }
+]

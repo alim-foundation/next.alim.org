@@ -1,0 +1,44 @@
+[
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "114",
+        "AyahNumber":  "1",
+        "Recitation":  "Alafasy_128kbps/114001",
+        "Body":  "Say: I seek refuge in the Lord of mankind,"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "114",
+        "AyahNumber":  "2",
+        "Recitation":  "Alafasy_128kbps/114002",
+        "Body":  "The King of mankind,"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "114",
+        "AyahNumber":  "3",
+        "Recitation":  "Alafasy_128kbps/114003",
+        "Body":  "The God of mankind,"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "114",
+        "AyahNumber":  "4",
+        "Recitation":  "Alafasy_128kbps/114004",
+        "Body":  "From the evil of the sneaking whisperer,"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "114",
+        "AyahNumber":  "5",
+        "Recitation":  "Alafasy_128kbps/114005",
+        "Body":  "Who whispereth in the hearts of mankind,"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "114",
+        "AyahNumber":  "6",
+        "Recitation":  "Alafasy_128kbps/114006",
+        "Body":  "Of the jinn and of mankind."
+    }
+]

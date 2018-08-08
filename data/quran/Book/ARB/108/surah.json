@@ -1,0 +1,23 @@
+[
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "108",
+        "AyahNumber":  "1",
+        "Recitation":  "Alafasy_128kbps/108001",
+        "Body":  "إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "108",
+        "AyahNumber":  "2",
+        "Recitation":  "Alafasy_128kbps/108002",
+        "Body":  "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "108",
+        "AyahNumber":  "3",
+        "Recitation":  "Alafasy_128kbps/108003",
+        "Body":  "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "BookCode":  "TLT",
+        "SurahNumber":  "112",
+        "AyahNumber":  "1",
+        "Recitation":  "Alafasy_128kbps/112001",
+        "Body":  "Qul huwa All\u003cu\u003ea\u003c/u\u003ehu a\u003cu\u003eh\u003c/u\u003ead\u003cb\u003eun\u003c/b\u003e"
+    },
+    {
+        "BookCode":  "TLT",
+        "SurahNumber":  "112",
+        "AyahNumber":  "2",
+        "Recitation":  "Alafasy_128kbps/112002",
+        "Body":  "All\u003cu\u003ea\u003c/u\u003ehu a\u003cb\u003el\u003c/b\u003e\u003cu\u003ess\u003c/u\u003eamad\u003cb\u003eu\u003c/b\u003e"
+    },
+    {
+        "BookCode":  "TLT",
+        "SurahNumber":  "112",
+        "AyahNumber":  "3",
+        "Recitation":  "Alafasy_128kbps/112003",
+        "Body":  "Lam yalid walam yoolad\u003cb\u003eu\u003c/b\u003e"
+    },
+    {
+        "BookCode":  "TLT",
+        "SurahNumber":  "112",
+        "AyahNumber":  "4",
+        "Recitation":  "Alafasy_128kbps/112004",
+        "Body":  "Walam yakun lahu kufuwan a\u003cu\u003eh\u003c/u\u003ead\u003cb\u003eun\u003c/b\u003e"
+    }
+]

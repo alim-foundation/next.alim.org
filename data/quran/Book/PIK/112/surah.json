@@ -1,0 +1,30 @@
+[
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "112",
+        "AyahNumber":  "1",
+        "Recitation":  "Alafasy_128kbps/112001",
+        "Body":  "Say: He is Allah, the One!"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "112",
+        "AyahNumber":  "2",
+        "Recitation":  "Alafasy_128kbps/112002",
+        "Body":  "Allah, the eternally Besought of all!"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "112",
+        "AyahNumber":  "3",
+        "Recitation":  "Alafasy_128kbps/112003",
+        "Body":  "He begetteth not nor was begotten."
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "112",
+        "AyahNumber":  "4",
+        "Recitation":  "Alafasy_128kbps/112004",
+        "Body":  "And there is none comparable unto Him."
+    }
+]

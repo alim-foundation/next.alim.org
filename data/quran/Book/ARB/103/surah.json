@@ -1,0 +1,23 @@
+[
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "103",
+        "AyahNumber":  "1",
+        "Recitation":  "Alafasy_128kbps/103001",
+        "Body":  "وَٱلْعَصْرِ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "103",
+        "AyahNumber":  "2",
+        "Recitation":  "Alafasy_128kbps/103002",
+        "Body":  "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "103",
+        "AyahNumber":  "3",
+        "Recitation":  "Alafasy_128kbps/103003",
+        "Body":  "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ"
+    }
+]

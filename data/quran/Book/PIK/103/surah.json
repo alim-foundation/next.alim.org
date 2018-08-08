@@ -1,0 +1,23 @@
+[
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "103",
+        "AyahNumber":  "1",
+        "Recitation":  "Alafasy_128kbps/103001",
+        "Body":  "By the declining day,"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "103",
+        "AyahNumber":  "2",
+        "Recitation":  "Alafasy_128kbps/103002",
+        "Body":  "Lo! man is in a state of loss,"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "103",
+        "AyahNumber":  "3",
+        "Recitation":  "Alafasy_128kbps/103003",
+        "Body":  "Save those who believe and do good works, and exhort one another\n\t\t\tto truth and exhort one another to endurance."
+    }
+]

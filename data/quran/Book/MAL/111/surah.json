@@ -1,0 +1,37 @@
+[
+    {
+        "BookCode":  "MAL",
+        "SurahNumber":  "111",
+        "AyahNumber":  "1",
+        "Recitation":  "Alafasy_128kbps/111001",
+        "Body":  "Perish the hands of Abu Lahab! And perish he!"
+    },
+    {
+        "BookCode":  "MAL",
+        "SurahNumber":  "111",
+        "AyahNumber":  "2",
+        "Recitation":  "Alafasy_128kbps/111002",
+        "Body":  "His wealth and whatever he earned did not avail him anything."
+    },
+    {
+        "BookCode":  "MAL",
+        "SurahNumber":  "111",
+        "AyahNumber":  "3",
+        "Recitation":  "Alafasy_128kbps/111003",
+        "Body":  "Soon he shall be burnt in a flaming fire (a pun on the meaning of\n\t\t\tAbu Lahab, \"father of flames\"),"
+    },
+    {
+        "BookCode":  "MAL",
+        "SurahNumber":  "111",
+        "AyahNumber":  "4",
+        "Recitation":  "Alafasy_128kbps/111004",
+        "Body":  "and his wife, the carrier of crackling fire wood,"
+    },
+    {
+        "BookCode":  "MAL",
+        "SurahNumber":  "111",
+        "AyahNumber":  "5",
+        "Recitation":  "Alafasy_128kbps/111005",
+        "Body":  "shall have a rope of palm-leaf fibre around her neck."
+    }
+]

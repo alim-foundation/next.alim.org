@@ -1,0 +1,44 @@
+[
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "109",
+        "AyahNumber":  "1",
+        "Recitation":  "Alafasy_128kbps/109001",
+        "Body":  "Say: O disbelievers!"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "109",
+        "AyahNumber":  "2",
+        "Recitation":  "Alafasy_128kbps/109002",
+        "Body":  "I worship not that which ye worship;"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "109",
+        "AyahNumber":  "3",
+        "Recitation":  "Alafasy_128kbps/109003",
+        "Body":  "Nor worship ye that which I worship."
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "109",
+        "AyahNumber":  "4",
+        "Recitation":  "Alafasy_128kbps/109004",
+        "Body":  "And I shall not worship that which ye worship."
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "109",
+        "AyahNumber":  "5",
+        "Recitation":  "Alafasy_128kbps/109005",
+        "Body":  "Nor will ye worship that which I worship."
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "109",
+        "AyahNumber":  "6",
+        "Recitation":  "Alafasy_128kbps/109006",
+        "Body":  "Unto you your religion, and unto me my religion."
+    }
+]

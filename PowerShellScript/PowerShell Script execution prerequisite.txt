@@ -1,0 +1,40 @@
+Folders to be created for Json data and Markdown content 
+
+Quran
+
+	Book
+		ARB
+		ASD
+		MAL
+		PIK
+		YAT
+		TLT
+		Overview
+Hadith
+
+	Book
+		AMH
+		FQS
+		HQD
+		SHB
+		SHM
+		TIR
+		SAD
+		NWH
+
+Content
+
+	Quran
+		Compare
+		Surah
+	Hadith
+		AMH
+		FQS
+		HQD
+		SHB
+		SHM
+		TIR
+		SAD
+		NWH
+		
+And then Run the PowerShell scripts for each book.

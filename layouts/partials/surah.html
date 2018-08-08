@@ -1,13 +1,14 @@
+{{$SurahNumber := .Params.SurahNumber}} 
 {{$TotalAyah := .Params.TotalAyah}}
-{{$CurrAyah := int .Params.AyahNumber}}
+
 <div class="row">
 	<div class="col-md-12">
+	{{$jsonURL := "data/Quran/Book/Overview/surah_overview.json" }} 
+	{{$json := getJSON $jsonURL }}
 		<select id="surahlist">
-		  <option {{ if (eq .Params.SurahNumber "1" ) }} selected {{ end }} value="1">Al-Fathiha</option>
-		  <option {{ if (eq .Params.SurahNumber "2" ) }} selected {{ end }} value="2">Al-Baqara</option>
-		  <option {{ if (eq .Params.SurahNumber "3" ) }} selected {{ end }} value="3">Al-Imr'an</option>
-		  <option {{ if (eq .Params.SurahNumber "4" ) }} selected {{ end }} value="4">An-Nisa</option>
-		  <option {{ if (eq .Params.SurahNumber "5" ) }} selected {{ end }} value="5">Al-Maida</option>
+		 {{range $json}}
+			<option {{ if (eq .SurahNumber $SurahNumber  ) }} selected {{ end }} value={{ .SurahNumber }}>{{ .SurahNumber }} . {{ .SurahName }} </option> 
+		{{ end }}
 		</select>
 	</div>
 </div>
@@ -99,39 +100,73 @@
         </fieldset> 
     </div>
 </div>
-
-                  
-
-{{$SurahNumber := .Params.SurahNumber}} 
-{{ if $SurahNumber }} 
-	{{ range index $.Site.Data.quran $SurahNumber}}
-		{{ range .explore  }}
-			<div class="row">
-				<div id="quran-content">
-					<div class="main-box">
-						<div class="col-sm-6 selectaudio" id ="ayah-text_{{ .Ayahnumber }}" dir="rtl" >
-							{{ .ARB }} 
-						</div>
-						<div class="col-sm-1">
-							{{ if (ne .Ayahnumber "0" ) }} 
+{{ if $SurahNumber }}
+	{{$partA := "data/Quran/Book/ARB" }}
+	{{$partB := "surah.json" }}
+	{{$jsonURL := print $partA "/" $SurahNumber "/" $partB }} 
+	{{ $json := getJSON $jsonURL }}
+	{{ if and (ne $SurahNumber "1") (ne $SurahNumber "9") }}
+		{{$bismiURL := print $partA "/" 1 "/" $partB}}
+		{{ $bismiJSON := getJSON $bismiURL }}
+		{{ range $bismiJSON }}
+			{{ if (eq .AyahNumber "1") }}
+				<div class="row">
+					<div id="quran-content">
+						<div class="main-box">
+							<div class="col-sm-6 selectaudio" id ="ayah-text_{{ .AyahNumber }}" dir="rtl" >
+								{{ .Body }} 
+							</div>
+							<div class="col-sm-1">
 								<div  class="number-box">
-									{{ .Ayahnumber }}
+								
 								</div>
-							{{ end }}
-						</div>
-						<div class="col-sm-5">
-							<div class="audio-box">
-								<div class="right-audios">
-									<audio  controls>
-										<source src="{{ .Recitation }}" type="audio/mp3">
-									</audio>
+							</div>
+							<div class="col-sm-5">
+								<div class="audio-box">
+									<div class="right-audios">
+										<audio  controls>
+											{{$recitationURL := .Recitation}}
+											<source src='https://alim-quran.s3.amazonaws.com/recitation/{{ print $recitationURL}}.mp3' type="audio/mp3">
+										</audio>
+									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
+			{{ end }}
+		{{ end }}
+	{{ end }}
+	{{ range $json }}
+	<div class="row">
+		<div id="quran-content">
+			<div class="main-box">
+				
+				<div class="col-sm-6 selectaudio" id ="ayah-text_{{ .AyahNumber }}" dir="rtl" >
+					{{ if and (ne .SurahNumber "1") (eq .AyahNumber "1") }}
+						{{ replaceRE "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ" "" .Body  }}
+					{{else}}
+						{{ .Body }} 
+					{{ end }} 
+				</div>
+				<div class="col-sm-1">
+					<div  class="number-box">
+						{{ .AyahNumber }}
+					</div>
+				</div>
+				<div class="col-sm-5">
+					<div class="audio-box">
+						<div class="right-audios">
+							<audio  controls>
+								{{$recitationURL := .Recitation}}
+								<source src='https://alim-quran.s3.amazonaws.com/recitation/{{ print $recitationURL}}.mp3' type="audio/mp3">
+							</audio>
+						</div>
+					</div>
+				</div>
 			</div>
-		{{ end }}	
+		</div>
+	</div>
 	{{ end }}	
 {{ end }}
 {{ if and .Site.DisqusShortname (not .Params.disableComments) }}
@@ -141,9 +176,9 @@
 	{{ template "_internal/disqus.html" . }}
 
 {{ end }}
-<!-- recitation script -->
+<!-- main -->
 <script src="/js/recitation.js"></script>
 <!-- FlowPlayer -->
-<script src="/js/flowplayer/flowplayer.min.js"></script>
-<script src="/js/flowplayer/flowplayer.hlsjs.min.js"></script>
-<script src="/js/flowplayer/flowplayer.audio.js"></script>
+<script src="http://www.alim.org/sites/all/themes/alim/flowplayer/flowplayer.min.js"></script>
+<script src="http://www.alim.org/sites/all/themes/alim/flowplayer/flowplayer.hlsjs.min.js"></script>
+<script src="http://www.alim.org/sites/all/themes/alim/flowplayer/flowplayer.audio.js"></script>

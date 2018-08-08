@@ -1,0 +1,11 @@
+---
+title       : "Surah 2. Al-Baqara, Ayah 243"
+date        : 7/25/2018 2:47:58 PM
+draft       : false
+type        : "quran"
+layout      : "compare"
+BookCode    : "CMP"
+SurahNumber : "2"
+AyahNumber  : "243"
+TotalAyah   : "286"
+---

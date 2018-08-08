@@ -1,12 +1,10 @@
 ---
-title: "Al-Tirmidhi Hadith - 1"
-date: 2014-09-28
-draft: false
-type : "hadith"
-layout: "hadith"
-BookCode : "TIR"
+title        : "Al-Tirmidhi Hadith - 1"
+date         : 7/25/2018 12:09:32 PM
+draft        : false
+type         : "hadith"
+layout       : "hadith"
+BookCode     : "TIR"
 HadithNumber : "1"
-Narrator : "Umar bin Al-Khattab"
-aliases : [
-]
+tags  :  ["Abdullah ibn Umar"]
 ---

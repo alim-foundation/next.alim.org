@@ -1,0 +1,37 @@
+[
+    {
+        "BookCode":  "TLT",
+        "SurahNumber":  "113",
+        "AyahNumber":  "1",
+        "Recitation":  "Alafasy_128kbps/113001",
+        "Body":  "Qul aAAoo\u003cu\u003eth\u003c/u\u003eu birabbi alfalaq\u003cb\u003ei\u003c/b\u003e"
+    },
+    {
+        "BookCode":  "TLT",
+        "SurahNumber":  "113",
+        "AyahNumber":  "2",
+        "Recitation":  "Alafasy_128kbps/113002",
+        "Body":  "Min sharri m\u003cu\u003ea\u003c/u\u003e khalaq\u003cb\u003ea\u003c/b\u003e"
+    },
+    {
+        "BookCode":  "TLT",
+        "SurahNumber":  "113",
+        "AyahNumber":  "3",
+        "Recitation":  "Alafasy_128kbps/113003",
+        "Body":  "Wamin sharri gh\u003cu\u003ea\u003c/u\u003esiqin i\u003cu\u003etha\u003c/u\u003e waqab\u003cb\u003ea\u003c/b\u003e"
+    },
+    {
+        "BookCode":  "TLT",
+        "SurahNumber":  "113",
+        "AyahNumber":  "4",
+        "Recitation":  "Alafasy_128kbps/113004",
+        "Body":  "Wamin sharri a\u003cb\u003el\u003c/b\u003ennaff\u003cu\u003ea\u003c/u\u003eth\u003cu\u003ea\u003c/u\u003eti fee alAAuqad\u003cb\u003ei\u003c/b\u003e"
+    },
+    {
+        "BookCode":  "TLT",
+        "SurahNumber":  "113",
+        "AyahNumber":  "5",
+        "Recitation":  "Alafasy_128kbps/113005",
+        "Body":  "Wamin sharri \u003cu\u003eha\u003c/u\u003esidin i\u003cu\u003etha\u003c/u\u003e \u003cu\u003eh\u003c/u\u003easad\u003cb\u003ea\u003c/b\u003e"
+    }
+]

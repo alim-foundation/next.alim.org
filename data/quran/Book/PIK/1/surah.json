@@ -1,0 +1,51 @@
+[
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "1",
+        "AyahNumber":  "1",
+        "Recitation":  "Alafasy_128kbps/001001",
+        "Body":  "In the name of Allah, the Beneficent, the Merciful"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "1",
+        "AyahNumber":  "2",
+        "Recitation":  "Alafasy_128kbps/001002",
+        "Body":  "Praise be to Allah, Lord of the Worlds,"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "1",
+        "AyahNumber":  "3",
+        "Recitation":  "Alafasy_128kbps/001003",
+        "Body":  "The Beneficent, the Merciful:"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "1",
+        "AyahNumber":  "4",
+        "Recitation":  "Alafasy_128kbps/001004",
+        "Body":  "Owner of the Day of Judgment,"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "1",
+        "AyahNumber":  "5",
+        "Recitation":  "Alafasy_128kbps/001005",
+        "Body":  "Thee (alone) we worship; Thee alone we ask for help."
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "1",
+        "AyahNumber":  "6",
+        "Recitation":  "Alafasy_128kbps/001006",
+        "Body":  "Show us the straight path,"
+    },
+    {
+        "BookCode":  "PIK",
+        "SurahNumber":  "1",
+        "AyahNumber":  "7",
+        "Recitation":  "Alafasy_128kbps/001007",
+        "Body":  "The path of those whom Thou hast favored; Not (the path) of those\n\t\t\twho earn Thine anger nor of those who go astray."
+    }
+]

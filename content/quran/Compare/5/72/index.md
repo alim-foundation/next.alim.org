@@ -1,0 +1,21 @@
+---
+title       : "Surah 5. Al-Maida, Ayah 72"
+date        : 7/25/2018 2:55:05 PM
+draft       : false
+type        : "quran"
+layout      : "compare"
+BookCode    : "CMP"
+SurahNumber : "5"
+AyahNumber  : "72"
+TotalAyah   : "120"
+
+title       : "Surah 5. Al-Maida, Ayah 72"
+date        : 7/25/2018 2:55:05 PM
+draft       : false
+type        : "quran"
+layout      : "compare"
+BookCode    : "CMP"
+SurahNumber : "5"
+AyahNumber  : "72"
+TotalAyah   : "120"
+---

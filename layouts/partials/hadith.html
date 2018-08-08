@@ -7,27 +7,297 @@
 	  <option {{ if (eq .Params.BookCode "AMH" ) }} selected {{ end }} value="amh">Al-Muwatta</option>
 	  <option {{ if (eq .Params.BookCode "HDQ" ) }} selected {{ end }} value="hdq">Al-Qudsi</option>
 	  <option {{ if (eq .Params.BookCode "TIR" ) }} selected {{ end }} value="tir">Al-Tirmidhi</option>
+	  <option {{ if (eq .Params.BookCode "FQS" ) }} selected {{ end }} value="fqs">Fiqh-us-Sunnah</option>
+	  <option {{ if (eq .Params.BookCode "SHB" ) }} selected {{ end }} value="shb">Sahih Bukhari</option>
+	  <option {{ if (eq .Params.BookCode "SHM" ) }} selected {{ end }} value="shm">Sahih Muslim</option>
 	</select>
 </div>
 </div>
+{{$categories := .Params.categories}}
+{{$tags := .Params.tags }}
 {{$BookCode := .Params.BookCode}} 
 {{$HadithNumber := .Params.HadithNumber}}
-{{ if $BookCode }} 
-	{{ range index $.Site.Data.hadith $BookCode}}
-		{{ range .explore  }} 
-			{{if eq ($HadithNumber) (.HadithNumber) }}
+{{$VolumeNumber := .Params.VolumeNumber}}
+{{$VolumeNumberInt := int .Params.VolumeNumber}}
+{{$NarratorTags :=  .Params.Narrator}}
+{{$FiqhNumber := .Params.FiqhNumber}}
+{{ if (eq $BookCode "AMH") }}
+	{{$partA := "data/Hadith/Book" }}
+	{{$partB := "hadith/amh.json" }}
+	{{$jsonURL := print $partA "/" $BookCode "/" $partB }} 
+	{{$json := getJSON $jsonURL }}
+	{{$posts := (where $json "VolumeNumber" "==" $VolumeNumber) }}
+	{{$postCount := len $posts }}
+	{{ if (eq $postCount 0) }}	
+	{{ else }}
+		<div id = "hadith-prev" class = "btn btn-success" rel="{{ $postCount }}">Prev</div>
+		<div id = "hadith-next" class = "btn btn-success" rel="{{ $postCount }}">Next</div>
+		OR  <input type="text" id="goto_text"/> <input id = "goto_button"type="button"value="Goto"></input>
+		</br></br>
+	{{ end }}
+	<b>Volume:</b>
+	<select id="hd_volume">
+	{{$VolumeLimit := 61}} 
+		{{ range $i, $sequence :=  (seq $VolumeLimit) }} 
+				<option {{ if (eq $sequence $VolumeNumberInt) }} selected {{ end }} value="{{$sequence}}"  >{{$sequence}}</option>			
+		{{ end }}
+	</select>
+	{{ range $json}}
+		{{ if and (eq .HadithNumber $HadithNumber) (eq .VolumeNumber $VolumeNumber) }}
 			<main>
-				<div id = "hadith-prev" class = "btn btn-success" rel="1">Prev</div>
-				<div id = "hadith-next" class = "btn btn-success" rel="1">Next</div>
+				<div><b>SectionHeading :: {{ .SectionHeading | safeHTML }}</b></div>  
 				</br></br>
-				<div><b>Narrated By ::  {{ .Narrator }}</b></div>
-				</br></br>
-				<div> {{.Body}}</div>
-			</main>
-		{{ end }}			
+				<div>{{.Body | safeHTML }} </div>
+			</main>	
 		{{ end }}	
 	{{ end }}	
+	<div id = "classification">
+			<b>Classification</b>
+			</br></br>
+			{{ range $categories }}
+				<a href="/categories/{{ . | urlize }}"><kbd class="item-tag">{{ . }}</kbd></a></br>
+			{{ end }}
+	</div>
 {{ end }}
+{{ if (eq $BookCode "FQS") }}
+
+	{{$partA := "data/Hadith/Book" }}
+	{{$partB := "hadith/fqs.json" }}
+	{{$jsonURL := print $partA "/" $BookCode "/" $partB }} 
+	{{ $json := getJSON $jsonURL }}
+	{{$posts :=  where (where $json "FiqhSubNumber" "==" "1")  "VolumeNumber" "==" $VolumeNumber }}
+	{{$postCount := len $posts }}
+	{{$postCount := sub $postCount 1}}
+	{{ $postCount := (index $posts $postCount).FiqhNumber }}
+	{{ if (eq $postCount 0) }}	
+		
+	{{ else }}
+		<div id = "hadith-prev" class = "btn btn-success" rel="{{$postCount}}">Prev</div>
+		<div id = "hadith-next" class = "btn btn-success" rel="{{$postCount}}">Next</div>
+		OR  <input type="text" id="goto_text"/> <input id = "goto_button"type="button"value="Goto"></input>
+
+		</br></br>
+	{{ end }}
+	<b>Volume:</b>
+	<select id="hd_volume">
+		{{$VolumeLimit := 5}}
+		{{ range $i, $sequence :=  (seq $VolumeLimit) }} 
+				<option {{ if (eq $sequence $VolumeNumberInt) }} selected {{ end }} value="{{$sequence}}"  >{{$sequence}}</option>			
+		{{ end }}
+	</select>
+	{{ range $json}}
+		{{ if and (eq .FiqhNumber $FiqhNumber) (eq .VolumeNumber $VolumeNumber) }}
+			<main>
+				
+				<div><b>Fiqh-us-Sunnah - {{$VolumeNumber}}. {{$FiqhNumber}} - {{.FiqhSubNumber}} </b></div>
+				<div><b>SectionHeading :: {{.SectionHeading  | safeHTML}}</b></div>
+				</br></br>
+				<div>{{.Body | safeHTML }} </div>
+			</main>	
+		{{ end }}
+	{{ end }}
+	<div id = "classification">
+		<b>Classification</b>
+		</br></br>
+		{{ range $categories }}
+			<a href="/categories/{{ . | urlize }}"><kbd class="item-tag">{{ . }}</kbd></a></br>
+		{{ end }}
+	</div>	
+{{ end }}
+{{ if (eq $BookCode "SHB") }}
+	{{$partA := "data/Hadith/Book" }}
+	{{$partB := "hadith/shb.json" }}
+	{{$jsonURL := print $partA "/" $BookCode "/" $partB }} 
+	{{ $json := getJSON $jsonURL }}
+	{{$posts := (where $json "VolumeNumber" "==" $VolumeNumber) }}
+	{{$postCount := len $posts }}
+	{{ if (eq $postCount 0) }}	
+		
+	{{ else }}
+		<div id = "hadith-prev" class = "btn btn-success" rel="{{$postCount}}">Prev</div>
+		<div id = "hadith-next" class = "btn btn-success" rel="{{$postCount}}">Next</div>
+		OR  <input type="text" id="goto_text"/> <input id = "goto_button"type="button"value="Goto"></input>
+		</br></br>
+	{{ end }}
+	<b>Volume:</b>
+	<select id="hd_volume">
+		{{$VolumeLimit := 9}}
+		{{ range $i, $sequence :=  (seq $VolumeLimit) }} 
+				<option {{ if (eq $sequence $VolumeNumberInt) }} selected {{ end }} value="{{$sequence}}"  >{{$sequence}}</option>			
+		{{ end }}
+	</select>
+		{{ range $json}}
+			{{ if and (eq .HadithNumber $HadithNumber) (eq .VolumeNumber $VolumeNumber) }}
+				<main>
+				<div><b>Narrator Name ::</b>
+					 {{ range $tags }}
+						<b><a href="/tags/{{ . | urlize }}"><kbd class="item-tag">{{ . }}</kbd></a></b></br>
+					 {{ end }}
+					 </div>
+					</br></br>
+					<div>{{.Body | safeHTML }} </div>
+				</main>	
+			{{ end }}
+		{{ end }}
+		<div id = "classification">
+			<b>Classification</b>
+			</br></br>
+			 {{ range $categories }}
+				<a href="/categories/{{ . | urlize }}"><kbd class="item-tag">{{ . }}</kbd></a></br>
+			 {{ end }}
+		</div> 		
+{{ end }}
+{{ if (eq $BookCode "HDQ") }}
+	{{$partA := "data/Hadith/Book" }}
+	{{$partB := "hdq.json" }}
+	{{$jsonURL := print $partA "/" $BookCode "/" $partB }} 
+	{{ $json := getJSON $jsonURL }}
+	{{$len := len $json}}
+	{{ if (eq ($json | len) 0) }}
+		
+	{{ else }}
+		<div id = "hadith-prev" class = "btn btn-success" rel="{{$len}}">Prev</div>
+		<div id = "hadith-next" class = "btn btn-success" rel="{{$len}}">Next</div>
+		OR  <input type="text" id="goto_text"/> <input id = "goto_button"type="button"value="Goto"></input>
+		</br></br>
+	{{ end }}
+	<b>Volume:</b>
+	<select id="hd_volume">
+		<option  selected  value="1"  >1</option>			
+	</select>
+		{{ range $json}}
+			{{ if (eq .HadithNumber $HadithNumber) }}
+				<main>
+
+					<div>{{.Body | safeHTML }} </div>
+				</main>	
+			{{ end }}
+		{{ end }}	
+{{ end }}
+{{ if (eq $BookCode "NWH") }}
+	{{$partA := "data/Hadith/Book" }}
+	{{$partB := "nwh.json" }}
+	{{$jsonURL := print $partA "/" $BookCode "/" $partB }} 
+	{{ $json := getJSON $jsonURL }}
+	{{$len := len $json}}
+	{{ if (eq ($json | len) 0) }}
+		
+	{{ else }}
+		<div id = "hadith-prev" class = "btn btn-success" rel="{{$len}}">Prev</div>
+		<div id = "hadith-next" class = "btn btn-success" rel="{{$len}}">Next</div>
+		OR  <input type="text" id="goto_text"/> <input id = "goto_button"type="button"value="Goto"></input>
+		</br></br>
+	{{ end }}
+	<b>Volume:</b>
+	<select id="hd_volume">
+		<option  selected  value="1"  >1</option>			
+	</select>
+		{{ range $json}}
+			{{ if and (eq .HadithNumber $HadithNumber) (eq .VolumeNumber $VolumeNumber) }}
+				<main>
+					<div ><b>Arabic :: {{.ArabicText  | safeHTML}}</b></div>
+					</br></br>
+					<div>{{.Body | safeHTML }} </div>
+				</main>	
+			{{ end }}
+		{{ end }}	
+{{ end }}
+{{ if (eq $BookCode "SHM") }}
+	{{$partA := "data/Hadith/Book" }}
+	{{$partB := "shm.json" }}
+	{{$jsonURL := print $partA "/" $BookCode "/" $partB }} 
+	{{ $json := getJSON $jsonURL }}
+	{{$len := len $json}}
+	{{ if (eq ($json | len) 0) }}
+		
+	{{ else }}
+		<div id = "hadith-prev" class = "btn btn-success" rel="{{$len}}">Prev</div>
+		<div id = "hadith-next" class = "btn btn-success" rel="{{$len}}">Next</div>
+		OR  <input type="text" id="goto_text"/> <input id = "goto_button"type="button"value="Goto"></input>
+		</br></br>
+	{{ end }}
+	<b>Volume:</b>
+	<select id="hd_volume">
+		<option  selected  value="1"  >1</option>			
+	</select>
+		{{ range $json}}
+			{{ if and (eq .HadithNumber $HadithNumber) (eq .VolumeNumber $VolumeNumber) }}
+				<main><div><b>Narrator Name ::</b>
+					 {{ range $tags }}
+						<b><a href="/tags/{{ . | urlize }}"><kbd class="item-tag">{{ . }}</kbd></a></b>
+					 {{ end }}
+					 </div>
+					</br></br>
+					<div>{{.Body | safeHTML }} </div>
+				</main>	
+			{{ end }}	
+		{{ end }}	
+{{ end }}
+{{ if (eq $BookCode "SAD") }}
+	{{$partA := "data/Hadith/Book" }}
+	{{$partB := "sad.json" }}
+	{{$jsonURL := print $partA "/" $BookCode "/" $partB }} 
+	{{ $json := getJSON $jsonURL }}
+	{{$len := len $json}}
+	{{ if (eq ($json | len) 0) }}
+		
+	{{ else }}
+		<div id = "hadith-prev" class = "btn btn-success" rel="{{$len}}">Prev</div>
+		<div id = "hadith-next" class = "btn btn-success" rel="{{$len}}">Next</div>
+		OR  <input type="text" id="goto_text"/> <input id = "goto_button"type="button"value="Goto"></input>
+		</br></br>
+	{{ end }}
+	<b>Volume:</b>
+	<select id="hd_volume">
+		<option  selected  value="1"  >1</option> 			
+	</select>
+		{{ range $json}}
+			{{ if and (eq .HadithNumber $HadithNumber) (eq .VolumeNumber $VolumeNumber) }}
+				<main>
+				<div><b>Narrator Name ::</b>
+					 {{ range $tags }}
+						<b><a href="/tags/{{ . | urlize }}"><kbd class="item-tag">{{ . }}</kbd></a></b>
+					 {{ end }}
+				 </div>
+				</br></br>
+				<div>{{.Body | safeHTML }} </div>
+			</main>	
+			{{ end }}
+		{{ end }}	
+		
+{{ end }}
+{{ if (eq $BookCode "TIR") }}
+	{{$partA := "data/Hadith/Book" }}
+	{{$partB := "tir.json" }}
+	{{$jsonURL := print $partA "/" $BookCode "/" $partB }} 
+	{{ $json := getJSON $jsonURL }}
+	{{$len := len $json}}
+	{{ if (eq ($json | len) 0) }}
+		
+	{{ else }} 
+		<div id = "hadith-prev" class = "btn btn-success" rel="{{$len}}">Prev</div>
+		<div id = "hadith-next" class = "btn btn-success" rel="{{$len}}">Next</div>
+		OR  <input type="text" id="goto_text"/> <input id = "goto_button"type="button" value="Goto"></input>
+		</br></br>
+	{{ end }}
+	<b>Volume:</b>
+	<select id="hd_volume">
+		<option  selected  value="1"  >1</option>			
+	</select>
+		{{ range $json}}
+			{{ if and (eq .HadithNumber $HadithNumber) (eq .VolumeNumber $VolumeNumber) }}
+				<main><div><b>Narrator Name ::
+					 {{ range $tags }}
+						<b><a href="/tags/{{ . | urlize }}"><kbd class="item-tag">{{ . }}</kbd></a></b>
+					 {{ end }}
+					 </div>
+					</br></br>
+					<div>{{.Body | safeHTML }} </div>
+				</main>
+			{{ end }}	
+		{{ end }}	
+{{ end }}
+
 {{ if and .Site.DisqusShortname (not .Params.disableComments) }}
 
 	<h4 class="page-header">Comments</h4>

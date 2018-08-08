@@ -1,0 +1,30 @@
+[
+    {
+        "BookCode":  "MAL",
+        "SurahNumber":  "112",
+        "AyahNumber":  "1",
+        "Recitation":  "Alafasy_128kbps/112001",
+        "Body":  "Say: He is Allah the One and Only;"
+    },
+    {
+        "BookCode":  "MAL",
+        "SurahNumber":  "112",
+        "AyahNumber":  "2",
+        "Recitation":  "Alafasy_128kbps/112002",
+        "Body":  "Allah is the Self-Sufficient (independent of all, while all are\n\t\t\tdependent on Him);"
+    },
+    {
+        "BookCode":  "MAL",
+        "SurahNumber":  "112",
+        "AyahNumber":  "3",
+        "Recitation":  "Alafasy_128kbps/112003",
+        "Body":  "He begets not, nor is He begotten;"
+    },
+    {
+        "BookCode":  "MAL",
+        "SurahNumber":  "112",
+        "AyahNumber":  "4",
+        "Recitation":  "Alafasy_128kbps/112004",
+        "Body":  "And there is none comparable to Him."
+    }
+]

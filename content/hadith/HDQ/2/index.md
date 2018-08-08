@@ -1,12 +1,9 @@
 ---
-title: "Hadith Qudsi - 2"
-date: 2014-09-28
-draft: false
-type : "hadith"
-layout: "hadith"
-BookCode : "HDQ"
-HadithNumber : "1"
-Narrator : "Jabir ibn Abdullah"
-aliases : [
-]
+title        : "Hadith Qudsi - 2"
+date         : 7/25/2018 11:30:49 AM
+draft        : false
+type         : "hadith"
+layout       : "hadith"
+BookCode     : "HDQ"
+HadithNumber : "2"
 ---

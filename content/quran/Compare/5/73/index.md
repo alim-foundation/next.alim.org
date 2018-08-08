@@ -1,0 +1,11 @@
+---
+title       : "Surah 5. Al-Maida, Ayah 73"
+date        : 7/25/2018 2:55:06 PM
+draft       : false
+type        : "quran"
+layout      : "compare"
+BookCode    : "CMP"
+SurahNumber : "5"
+AyahNumber  : "73"
+TotalAyah   : "120"
+---

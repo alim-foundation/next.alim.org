@@ -1,0 +1,51 @@
+[
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "1",
+        "AyahNumber":  "1",
+        "Recitation":  "Alafasy_128kbps/001001",
+        "Body":  "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "1",
+        "AyahNumber":  "2",
+        "Recitation":  "Alafasy_128kbps/001002",
+        "Body":  "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "1",
+        "AyahNumber":  "3",
+        "Recitation":  "Alafasy_128kbps/001003",
+        "Body":  "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "1",
+        "AyahNumber":  "4",
+        "Recitation":  "Alafasy_128kbps/001004",
+        "Body":  "مَٰلِكِ يَوْمِ ٱلدِّينِ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "1",
+        "AyahNumber":  "5",
+        "Recitation":  "Alafasy_128kbps/001005",
+        "Body":  "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "1",
+        "AyahNumber":  "6",
+        "Recitation":  "Alafasy_128kbps/001006",
+        "Body":  "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "1",
+        "AyahNumber":  "7",
+        "Recitation":  "Alafasy_128kbps/001007",
+        "Body":  "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ"
+    }
+]

@@ -1,0 +1,436 @@
+[
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "1",
+        "Recitation":  "Alafasy_128kbps/053001",
+        "Body":  "وَٱلنَّجْمِ إِذَا هَوَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "2",
+        "Recitation":  "Alafasy_128kbps/053002",
+        "Body":  "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "3",
+        "Recitation":  "Alafasy_128kbps/053003",
+        "Body":  "وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "4",
+        "Recitation":  "Alafasy_128kbps/053004",
+        "Body":  "إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "5",
+        "Recitation":  "Alafasy_128kbps/053005",
+        "Body":  "عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "6",
+        "Recitation":  "Alafasy_128kbps/053006",
+        "Body":  "ذُو مِرَّةٍ فَٱسْتَوَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "7",
+        "Recitation":  "Alafasy_128kbps/053007",
+        "Body":  "وَهُوَ بِٱلْأُفُقِ ٱلْأَعْلَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "8",
+        "Recitation":  "Alafasy_128kbps/053008",
+        "Body":  "ثُمَّ دَنَا فَتَدَلَّىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "9",
+        "Recitation":  "Alafasy_128kbps/053009",
+        "Body":  "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "10",
+        "Recitation":  "Alafasy_128kbps/053010",
+        "Body":  "فَأَوْحَىٰٓ إِلَىٰ عَبْدِهِۦ مَآ أَوْحَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "11",
+        "Recitation":  "Alafasy_128kbps/053011",
+        "Body":  "مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "12",
+        "Recitation":  "Alafasy_128kbps/053012",
+        "Body":  "أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "13",
+        "Recitation":  "Alafasy_128kbps/053013",
+        "Body":  "وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "14",
+        "Recitation":  "Alafasy_128kbps/053014",
+        "Body":  "عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "15",
+        "Recitation":  "Alafasy_128kbps/053015",
+        "Body":  "عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "16",
+        "Recitation":  "Alafasy_128kbps/053016",
+        "Body":  "إِذْ يَغْشَى ٱلسِّدْرَةَ مَا يَغْشَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "17",
+        "Recitation":  "Alafasy_128kbps/053017",
+        "Body":  "مَا زَاغَ ٱلْبَصَرُ وَمَا طَغَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "18",
+        "Recitation":  "Alafasy_128kbps/053018",
+        "Body":  "لَقَدْ رَأَىٰ مِنْ ءَايَٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "19",
+        "Recitation":  "Alafasy_128kbps/053019",
+        "Body":  "أَفَرَءَيْتُمُ ٱللَّٰتَ وَٱلْعُزَّىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "20",
+        "Recitation":  "Alafasy_128kbps/053020",
+        "Body":  "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلْأُخْرَىٰٓ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "21",
+        "Recitation":  "Alafasy_128kbps/053021",
+        "Body":  "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلْأُنثَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "22",
+        "Recitation":  "Alafasy_128kbps/053022",
+        "Body":  "تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰٓ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "23",
+        "Recitation":  "Alafasy_128kbps/053023",
+        "Body":  "إِنْ هِىَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ ۖ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰٓ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "24",
+        "Recitation":  "Alafasy_128kbps/053024",
+        "Body":  "أَمْ لِلْإِنسَٰنِ مَا تَمَنَّىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "25",
+        "Recitation":  "Alafasy_128kbps/053025",
+        "Body":  "فَلِلَّهِ ٱلْءَاخِرَةُ وَٱلْأُولَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "26",
+        "Recitation":  "Alafasy_128kbps/053026",
+        "Body":  "۞ وَكَم مِّن مَّلَكٍ فِى ٱلسَّمَٰوَٰتِ لَا تُغْنِى شَفَٰعَتُهُمْ شَيْـًٔا إِلَّا مِنۢ بَعْدِ أَن يَأْذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "27",
+        "Recitation":  "Alafasy_128kbps/053027",
+        "Body":  "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ لَيُسَمُّونَ ٱلْمَلَٰٓئِكَةَ تَسْمِيَةَ ٱلْأُنثَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "28",
+        "Recitation":  "Alafasy_128kbps/053028",
+        "Body":  "وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ ۖ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "29",
+        "Recitation":  "Alafasy_128kbps/053029",
+        "Body":  "فَأَعْرِضْ عَن مَّن تَوَلَّىٰ عَن ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا ٱلْحَيَوٰةَ ٱلدُّنْيَا"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "30",
+        "Recitation":  "Alafasy_128kbps/053030",
+        "Body":  "ذَٰلِكَ مَبْلَغُهُم مِّنَ ٱلْعِلْمِ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِمَنِ ٱهْتَدَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "31",
+        "Recitation":  "Alafasy_128kbps/053031",
+        "Body":  "وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "32",
+        "Recitation":  "Alafasy_128kbps/053032",
+        "Body":  "ٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ ۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِى بُطُونِ أُمَّهَٰتِكُمْ ۖ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "33",
+        "Recitation":  "Alafasy_128kbps/053033",
+        "Body":  "أَفَرَءَيْتَ ٱلَّذِى تَوَلَّىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "34",
+        "Recitation":  "Alafasy_128kbps/053034",
+        "Body":  "وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰٓ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "35",
+        "Recitation":  "Alafasy_128kbps/053035",
+        "Body":  "أَعِندَهُۥ عِلْمُ ٱلْغَيْبِ فَهُوَ يَرَىٰٓ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "36",
+        "Recitation":  "Alafasy_128kbps/053036",
+        "Body":  "أَمْ لَمْ يُنَبَّأْ بِمَا فِى صُحُفِ مُوسَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "37",
+        "Recitation":  "Alafasy_128kbps/053037",
+        "Body":  "وَإِبْرَٰهِيمَ ٱلَّذِى وَفَّىٰٓ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "38",
+        "Recitation":  "Alafasy_128kbps/053038",
+        "Body":  "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "39",
+        "Recitation":  "Alafasy_128kbps/053039",
+        "Body":  "وَأَن لَّيْسَ لِلْإِنسَٰنِ إِلَّا مَا سَعَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "40",
+        "Recitation":  "Alafasy_128kbps/053040",
+        "Body":  "وَأَنَّ سَعْيَهُۥ سَوْفَ يُرَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "41",
+        "Recitation":  "Alafasy_128kbps/053041",
+        "Body":  "ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "42",
+        "Recitation":  "Alafasy_128kbps/053042",
+        "Body":  "وَأَنَّ إِلَىٰ رَبِّكَ ٱلْمُنتَهَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "43",
+        "Recitation":  "Alafasy_128kbps/053043",
+        "Body":  "وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "44",
+        "Recitation":  "Alafasy_128kbps/053044",
+        "Body":  "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحْيَا"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "45",
+        "Recitation":  "Alafasy_128kbps/053045",
+        "Body":  "وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "46",
+        "Recitation":  "Alafasy_128kbps/053046",
+        "Body":  "مِن نُّطْفَةٍ إِذَا تُمْنَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "47",
+        "Recitation":  "Alafasy_128kbps/053047",
+        "Body":  "وَأَنَّ عَلَيْهِ ٱلنَّشْأَةَ ٱلْأُخْرَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "48",
+        "Recitation":  "Alafasy_128kbps/053048",
+        "Body":  "وَأَنَّهُۥ هُوَ أَغْنَىٰ وَأَقْنَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "49",
+        "Recitation":  "Alafasy_128kbps/053049",
+        "Body":  "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "50",
+        "Recitation":  "Alafasy_128kbps/053050",
+        "Body":  "وَأَنَّهُۥٓ أَهْلَكَ عَادًا ٱلْأُولَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "51",
+        "Recitation":  "Alafasy_128kbps/053051",
+        "Body":  "وَثَمُودَا۟ فَمَآ أَبْقَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "52",
+        "Recitation":  "Alafasy_128kbps/053052",
+        "Body":  "وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ هُمْ أَظْلَمَ وَأَطْغَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "53",
+        "Recitation":  "Alafasy_128kbps/053053",
+        "Body":  "وَٱلْمُؤْتَفِكَةَ أَهْوَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "54",
+        "Recitation":  "Alafasy_128kbps/053054",
+        "Body":  "فَغَشَّىٰهَا مَا غَشَّىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "55",
+        "Recitation":  "Alafasy_128kbps/053055",
+        "Body":  "فَبِأَىِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "56",
+        "Recitation":  "Alafasy_128kbps/053056",
+        "Body":  "هَٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "57",
+        "Recitation":  "Alafasy_128kbps/053057",
+        "Body":  "أَزِفَتِ ٱلْءَازِفَةُ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "58",
+        "Recitation":  "Alafasy_128kbps/053058",
+        "Body":  "لَيْسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "59",
+        "Recitation":  "Alafasy_128kbps/053059",
+        "Body":  "أَفَمِنْ هَٰذَا ٱلْحَدِيثِ تَعْجَبُونَ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "60",
+        "Recitation":  "Alafasy_128kbps/053060",
+        "Body":  "وَتَضْحَكُونَ وَلَا تَبْكُونَ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "61",
+        "Recitation":  "Alafasy_128kbps/053061",
+        "Body":  "وَأَنتُمْ سَٰمِدُونَ"
+    },
+    {
+        "BookCode":  "ARB",
+        "SurahNumber":  "53",
+        "AyahNumber":  "62",
+        "Recitation":  "Alafasy_128kbps/053062",
+        "Body":  "فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩"
+    }
+]

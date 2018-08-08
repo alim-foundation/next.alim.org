@@ -1,12 +1,9 @@
 ---
-title: "Nawawi Hadith - 1"
-date: 2014-09-28
-draft: false
-type : "hadith"
-layout: "hadith"
+title        : "Nawawi Hadith - 1"
+date         : 7/25/2018 11:33:42 AM
+draft        : false
+type         : "hadith"
+layout       : "hadith"
+BookCode     : "NWH"
 HadithNumber : "1"
-BookCode : "NWH"
-Narrator : "Umar bin Al-Khattab"
-aliases : [
-]
 ---
