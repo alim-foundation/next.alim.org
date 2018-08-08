@@ -1,6 +1,6 @@
-﻿$MySQLAdminUserName = 'root'
-$MySQLAdminPassword = 'usbw'
-$MySQLDatabase = 'alim_dev'
+﻿$MySQLAdminUserName = ''
+$MySQLAdminPassword = ''
+$MySQLDatabase = ''
 $MySQLHost = 'localhost'
 $ConnectionString = "server=" + $MySQLHost + ";port=3307;uid=" + $MySQLAdminUserName + ";pwd=" + $MySQLAdminPassword + ";database="+$MySQLDatabase
 Try {
